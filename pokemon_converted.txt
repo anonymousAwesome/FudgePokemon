@@ -1,0 +1,7064 @@
+Bulbasaur 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Ivysaur 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Venusaur 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Venusaur (Mega Venusaur) 
+HP: Good
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Great
+Initiative: Good
+
+Charmander 
+HP: Poor
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Charmeleon 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Charizard 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Charizard (Mega Charizard X) 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Charizard (Mega Charizard Y) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Legendary
+Ranged Defense: Great
+Initiative: Good
+
+Squirtle 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Wartortle 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Blastoise 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Blastoise (Mega Blastoise) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Great
+Initiative: Fair
+
+Caterpie 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Metapod 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Poor
+
+Butterfree 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Weedle 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Kakuna 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Poor
+
+Beedrill 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Fair
+
+Beedrill (Mega Beedrill) 
+HP: Fair
+Melee Attack: Legendary
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Good
+Initiative: Great
+
+Pidgey 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Pidgeotto 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Pidgeot 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Pidgeot (Mega Pidgeot) 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Great
+
+Rattata 
+HP: Poor
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Fair
+
+Raticate 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Spearow 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Fair
+
+Fearow 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Ekans 
+HP: Poor
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Arbok 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Pikachu 
+HP: Poor
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Good
+
+Raichu 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Great
+
+Sandshrew 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Sandslash 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Sandslash 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Poor
+Ranged Defense: Fair
+Initiative: Fair
+
+Nidoran♀ 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Nidorina 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Nidoqueen 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Nidoran♂ 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Nidorino 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Nidoking 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Clefairy 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Poor
+
+Clefable 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Vulpix 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Ninetales 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Jigglypuff 
+HP: Good
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Poor
+
+Wigglytuff 
+HP: Great
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Zubat 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Golbat 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Oddish 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Poor
+
+Gloom 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Vileplume 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Mediocre
+
+Paras 
+HP: Poor
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Parasect 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Poor
+
+Venonat 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Venomoth 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Diglett 
+HP: Terrible
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Good
+
+Dugtrio 
+HP: Poor
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Great
+
+Meowth 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Good
+
+Persian 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Great
+
+Psyduck 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Golduck 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Mankey 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Primeape 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Growlithe 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Arcanine 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Poliwag 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Good
+
+Poliwhirl 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Good
+
+Poliwrath 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Abra 
+HP: Poor
+Melee Attack: Poor
+Melee Defense: Terrible
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Good
+
+Kadabra 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Superb
+Ranged Defense: Fair
+Initiative: Good
+
+Alakazam 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Great
+
+Alakazam (Mega Alakazam) 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Legendary
+Ranged Defense: Good
+Initiative: Superb
+
+Machop 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Poor
+
+Machoke 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Machamp 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Bellsprout 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Poor
+Ranged Attack: Good
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Weepinbell 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Victreebel 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Fair
+
+Tentacool 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Fair
+
+Tentacruel 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Good
+
+Geodude 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Poor
+
+Graveler 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Golem 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Ponyta 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Rapidash 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Slowpoke 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Terrible
+
+Slowbro 
+HP: Good
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Poor
+
+Slowbro (Mega Slowbro) 
+HP: Good
+Melee Attack: Good
+Melee Defense: Superb
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Poor
+
+Magnemite 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Magneton 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Fair
+Initiative: Fair
+
+Farfetch'd 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Doduo 
+HP: Poor
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Fair
+
+Dodrio 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Seel 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Dewgong 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Grimer 
+HP: Good
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Muk 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Shellder 
+HP: Poor
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Cloyster 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Superb
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Gastly 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Great
+Ranged Defense: Poor
+Initiative: Good
+
+Haunter 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Good
+
+Gengar 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Fair
+Initiative: Great
+
+Gengar (Mega Gengar) 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Legendary
+Ranged Defense: Good
+Initiative: Great
+
+Onix 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Superb
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Drowzee 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Mediocre
+
+Hypno 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Fair
+
+Krabby 
+HP: Poor
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Kingler 
+HP: Mediocre
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Voltorb 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Good
+
+Electrode 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Great
+
+Exeggcute 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Exeggutor 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Cubone 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Marowak 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Hitmonlee 
+HP: Mediocre
+Melee Attack: Superb
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Great
+Initiative: Good
+
+Hitmonchan 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Great
+Initiative: Fair
+
+Lickitung 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Poor
+
+Koffing 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Weezing 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Rhyhorn 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Poor
+
+Rhydon 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Chansey 
+HP: Superb
+Melee Attack: Terrible
+Melee Defense: Terrible
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Mediocre
+
+Tangela 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Kangaskhan 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Good
+
+Kangaskhan (Mega Kangaskhan) 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Good
+
+Horsea 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Poor
+Initiative: Fair
+
+Seadra 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Good
+
+Goldeen 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Seaking 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Fair
+
+Staryu 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Good
+
+Starmie 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Great
+
+Mr. Mime 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Good
+
+Scyther 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Good
+
+Jynx 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Electabuzz 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Magmar 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Pinsir 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Pinsir (Mega Pinsir) 
+HP: Fair
+Melee Attack: Legendary
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Good
+
+Tauros 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Great
+
+Magikarp 
+HP: Poor
+Melee Attack: Terrible
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Good
+
+Gyarados 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Good
+
+Gyarados (Mega Gyarados) 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Good
+
+Lapras 
+HP: Great
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Ditto 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Eevee 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Vaporeon 
+HP: Great
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Jolteon 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Great
+
+Flareon 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Fair
+
+Porygon 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Omanyte 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Omastar 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Kabuto 
+HP: Poor
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Kabutops 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Aerodactyl 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Great
+
+Aerodactyl (Mega Aerodactyl) 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Superb
+
+Snorlax 
+HP: Great
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Great
+Initiative: Poor
+
+Articuno 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Good
+
+Zapdos 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Moltres 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Dratini 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Dragonair 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Dragonite 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Mewtwo 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Legendary
+Ranged Defense: Good
+Initiative: Great
+
+Mewtwo (Mega Mewtwo X) 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Good
+Ranged Attack: Legendary
+Ranged Defense: Good
+Initiative: Great
+
+Mewtwo (Mega Mewtwo Y) 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Fair
+Ranged Attack: Legendary
+Ranged Defense: Great
+Initiative: Great
+
+Mew 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Chikorita 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Bayleef 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Fair
+
+Meganium 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Cyndaquil 
+HP: Poor
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Quilava 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Typhlosion 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Totodile 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Croconaw 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Feraligatr 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Sentret 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Furret 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Good
+
+Hoothoot 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Noctowl 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Ledyba 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Mediocre
+
+Ledian 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Great
+Initiative: Good
+
+Spinarak 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Ariados 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Crobat 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Great
+
+Chinchou 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Lanturn 
+HP: Great
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Pichu 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Terrible
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Fair
+
+Cleffa 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Terrible
+
+Igglybuff 
+HP: Good
+Melee Attack: Mediocre
+Melee Defense: Terrible
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Terrible
+
+Togepi 
+HP: Poor
+Melee Attack: Poor
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Poor
+
+Togetic 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Natu 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Xatu 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Mareep 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Flaaffy 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Ampharos 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Mediocre
+
+Ampharos (Mega Ampharos) 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Legendary
+Ranged Defense: Great
+Initiative: Mediocre
+
+Bellossom 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Mediocre
+
+Marill 
+HP: Fair
+Melee Attack: Poor
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Azumarill 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Sudowoodo 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Poor
+
+Politoed 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Hoppip 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Skiploom 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Good
+
+Jumpluff 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Great
+
+Aipom 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Good
+
+Sunkern 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Poor
+
+Sunflora 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Poor
+
+Yanma 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Good
+
+Wooper 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Terrible
+
+Quagsire 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Poor
+
+Espeon 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Great
+
+Umbreon 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Great
+Initiative: Fair
+
+Murkrow 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Good
+
+Slowking 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Poor
+
+Misdreavus 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Unown 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Wobbuffet 
+HP: Superb
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Girafarig 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Pineco 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Terrible
+
+Forretress 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Dunsparce 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Gligar 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Good
+
+Steelix 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Legendary
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Poor
+
+Steelix (Mega Steelix) 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Legendary
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Poor
+
+Snubbull 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Granbull 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Qwilfish 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Good
+
+Scizor 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Fair
+
+Scizor (Mega Scizor) 
+HP: Fair
+Melee Attack: Legendary
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Fair
+
+Shuckle 
+HP: Poor
+Melee Attack: Terrible
+Melee Defense: Legendary
+Ranged Attack: Terrible
+Ranged Defense: Legendary
+Initiative: Terrible
+
+Heracross 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Good
+
+Heracross (Mega Heracross) 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Fair
+
+Sneasel 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Great
+
+Teddiursa 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Ursaring 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Slugma 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Magcargo 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Poor
+
+Swinub 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Piloswine 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Corsola 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Poor
+
+Remoraid 
+HP: Poor
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Poor
+Initiative: Fair
+
+Octillery 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Delibird 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Mantine 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Fair
+
+Skarmory 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Fair
+
+Houndour 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Houndoom 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Houndoom (Mega Houndoom) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Great
+
+Kingdra 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Phanpy 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Donphan 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Porygon2 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Stantler 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Smeargle 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Poor
+Ranged Attack: Poor
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Tyrogue 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Poor
+
+Hitmontop 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Great
+Initiative: Fair
+
+Smoochum 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Terrible
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Elekid 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Good
+
+Magby 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Poor
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Good
+
+Miltank 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Good
+
+Blissey 
+HP: Superb
+Melee Attack: Terrible
+Melee Defense: Terrible
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Mediocre
+
+Raikou 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Great
+
+Entei 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Suicune 
+HP: Good
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Good
+
+Larvitar 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Pupitar 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Tyranitar 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Tyranitar (Mega Tyranitar) 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Superb
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Fair
+
+Lugia 
+HP: Good
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Superb
+Initiative: Great
+
+Ho-Oh 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Superb
+Initiative: Good
+
+Celebi 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Treecko 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Grovyle 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Sceptile 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Great
+
+Sceptile (Mega Sceptile) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Great
+
+Torchic 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Combusken 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Blaziken 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Blaziken (Mega Blaziken) 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Mudkip 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Marshtomp 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Swampert 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Swampert (Mega Swampert) 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Fair
+
+Poochyena 
+HP: Poor
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Poor
+
+Mightyena 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Zigzagoon 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Linoone 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Wurmple 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Poor
+
+Silcoon 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Terrible
+
+Beautifly 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Cascoon 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Terrible
+
+Dustox 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Fair
+
+Lotad 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Lombre 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Ludicolo 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Seedot 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Poor
+
+Nuzleaf 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Shiftry 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Taillow 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Good
+
+Swellow 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Great
+
+Wingull 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Poor
+Initiative: Good
+
+Pelipper 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Ralts 
+HP: Poor
+Melee Attack: Poor
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Kirlia 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Gardevoir 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Great
+Initiative: Good
+
+Gardevoir (Mega Gardevoir) 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Legendary
+Ranged Defense: Great
+Initiative: Good
+
+Surskit 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Masquerain 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Shroomish 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Poor
+
+Breloom 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Slakoth 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Poor
+
+Vigoroth 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Good
+
+Slaking 
+HP: Great
+Melee Attack: Legendary
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Nincada 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Ninjask 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Superb
+
+Shedinja 
+HP: Terrible
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Whismur 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Poor
+Initiative: Poor
+
+Loudred 
+HP: Good
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Exploud 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Fair
+
+Makuhita 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Poor
+
+Hariyama 
+HP: Great
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Azurill 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Nosepass 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Poor
+
+Skitty 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Delcatty 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Sableye 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Sableye (Mega Sableye) 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Poor
+
+Mawile 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Mawile (Mega Mawile) 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Aron 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Lairon 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Aggron 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Superb
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Aggron (Mega Aggron) 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Legendary
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Meditite 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Medicham 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Medicham (Mega Medicham) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Electrike 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Manectric 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Manectric (Mega Manectric) 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Great
+
+Plusle 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Minun 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Volbeat 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Good
+
+Illumise 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Roselia 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Gulpin 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Swalot 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Carvanha 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Poor
+Initiative: Fair
+
+Sharpedo 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Good
+
+Sharpedo (Mega Sharpedo) 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Wailmer 
+HP: Great
+Melee Attack: Good
+Melee Defense: Poor
+Ranged Attack: Good
+Ranged Defense: Poor
+Initiative: Fair
+
+Wailord 
+HP: Great
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Numel 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Camerupt 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Camerupt (Mega Camerupt) 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Poor
+
+Torkoal 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Poor
+
+Spoink 
+HP: Fair
+Melee Attack: Poor
+Melee Defense: Poor
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Grumpig 
+HP: Good
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Good
+
+Spinda 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Trapinch 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Terrible
+
+Vibrava 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Flygon 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Cacnea 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Cacturne 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Swablu 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Altaria 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Altaria (Mega Altaria) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Zangoose 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Seviper 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Fair
+
+Lunatone 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Solrock 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Barboach 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Whiscash 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Corphish 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Poor
+Initiative: Poor
+
+Crawdaunt 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Baltoy 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Claydol 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Fair
+
+Lileep 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Poor
+
+Cradily 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Anorith 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Armaldo 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Feebas 
+HP: Poor
+Melee Attack: Poor
+Melee Defense: Poor
+Ranged Attack: Terrible
+Ranged Defense: Mediocre
+Initiative: Good
+
+Milotic 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Good
+
+Castform 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Kecleon 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Great
+Initiative: Mediocre
+
+Shuppet 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Banette 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Banette (Mega Banette) 
+HP: Fair
+Melee Attack: Legendary
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Duskull 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Poor
+
+Dusclops 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Great
+Initiative: Poor
+
+Tropius 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Chimecho 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Absol 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Absol (Mega Absol) 
+HP: Fair
+Melee Attack: Legendary
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Great
+
+Wynaut 
+HP: Good
+Melee Attack: Poor
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Snorunt 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Glalie 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Glalie (Mega Glalie) 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Spheal 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Sealeo 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Walrein 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Clamperl 
+HP: Poor
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Huntail 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Gorebyss 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Relicanth 
+HP: Good
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Luvdisc 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Good
+
+Bagon 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Shelgon 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Salamence 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Salamence (Mega Salamence) 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Great
+
+Beldum 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Poor
+
+Metang 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Metagross 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Metagross (Mega Metagross) 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Superb
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Great
+
+Regirock 
+HP: Good
+Melee Attack: Great
+Melee Defense: Legendary
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Regice 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Legendary
+Initiative: Mediocre
+
+Registeel 
+HP: Good
+Melee Attack: Good
+Melee Defense: Superb
+Ranged Attack: Good
+Ranged Defense: Superb
+Initiative: Mediocre
+
+Latias 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Great
+
+Latias (Mega Latias) 
+HP: Good
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Superb
+Initiative: Great
+
+Latios 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Great
+Initiative: Great
+
+Latios (Mega Latios) 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Legendary
+Ranged Defense: Great
+Initiative: Great
+
+Kyogre 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Legendary
+Ranged Defense: Great
+Initiative: Good
+
+Kyogre (Primal Kyogre) 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Good
+Ranged Attack: Legendary
+Ranged Defense: Superb
+Initiative: Good
+
+Groudon 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Groudon (Primal Groudon) 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Superb
+Ranged Attack: Legendary
+Ranged Defense: Good
+Initiative: Good
+
+Rayquaza 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Good
+Ranged Attack: Legendary
+Ranged Defense: Good
+Initiative: Good
+
+Rayquaza (Mega Rayquaza) 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Good
+Ranged Attack: Legendary
+Ranged Defense: Good
+Initiative: Great
+
+Jirachi 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Deoxys (Normal Forme) 
+HP: Mediocre
+Melee Attack: Legendary
+Melee Defense: Mediocre
+Ranged Attack: Legendary
+Ranged Defense: Mediocre
+Initiative: Superb
+
+Deoxys (Attack Forme) 
+HP: Mediocre
+Melee Attack: Legendary
+Melee Defense: Poor
+Ranged Attack: Legendary
+Ranged Defense: Poor
+Initiative: Superb
+
+Deoxys (Defense Forme) 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Superb
+Ranged Attack: Good
+Ranged Defense: Superb
+Initiative: Good
+
+Deoxys (Speed Forme) 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Superb
+
+Turtwig 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Grotle 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Poor
+
+Torterra 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Chimchar 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Monferno 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Good
+
+Infernape 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Piplup 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Prinplup 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Empoleon 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Starly 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Fair
+
+Staravia 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Good
+
+Staraptor 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Bidoof 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Bibarel 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Kricketot 
+HP: Poor
+Melee Attack: Poor
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Kricketune 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Shinx 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Luxio 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Luxray 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Fair
+
+Budew 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Roserade 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Cranidos 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Rampardos 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Shieldon 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Poor
+
+Bastiodon 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Superb
+Ranged Attack: Mediocre
+Ranged Defense: Great
+Initiative: Poor
+
+Burmy 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Wormadam (Plant Cloak) 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Poor
+
+Wormadam (Sandy Cloak) 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Poor
+
+Wormadam (Trash Cloak) 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Poor
+
+Mothim 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Combee 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Vespiquen 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Pachirisu 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Good
+
+Buizel 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Poor
+Initiative: Good
+
+Floatzel 
+HP: Good
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Great
+
+Cherubi 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Cherrim 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Shellos 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Poor
+
+Gastrodon 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Poor
+
+Ambipom 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Great
+
+Drifloon 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Drifblim 
+HP: Great
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Good
+
+Buneary 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Good
+
+Lopunny 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Good
+
+Lopunny (Mega Lopunny) 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Great
+
+Mismagius 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Honchkrow 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Glameow 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Good
+
+Purugly 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Great
+
+Chingling 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Stunky 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Skuntank 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Bronzor 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Good
+Ranged Attack: Poor
+Ranged Defense: Good
+Initiative: Poor
+
+Bronzong 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Poor
+
+Bonsly 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Terrible
+Ranged Defense: Mediocre
+Initiative: Terrible
+
+Mime Jr. 
+HP: Poor
+Melee Attack: Poor
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Happiny 
+HP: Good
+Melee Attack: Terrible
+Melee Defense: Terrible
+Ranged Attack: Poor
+Ranged Defense: Fair
+Initiative: Poor
+
+Chatot 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Good
+
+Spiritomb 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Poor
+
+Gible 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Gabite 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Good
+
+Garchomp 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Garchomp (Mega Garchomp) 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Munchlax 
+HP: Great
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Terrible
+
+Riolu 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Lucario 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Lucario (Mega Lucario) 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Fair
+Initiative: Great
+
+Hippopotas 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Hippowdon 
+HP: Good
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Skorupi 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Drapion 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Croagunk 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Toxicroak 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Carnivine 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Finneon 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Fair
+
+Lumineon 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Good
+
+Mantyke 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Great
+Initiative: Mediocre
+
+Snover 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Abomasnow 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Abomasnow (Mega Abomasnow) 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Poor
+
+Weavile 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Great
+
+Magnezone 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Fair
+
+Lickilicky 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Rhyperior 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Tangrowth 
+HP: Good
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Electivire 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Magmortar 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Togekiss 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Great
+Initiative: Good
+
+Yanmega 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Good
+
+Leafeon 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Glaceon 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Fair
+
+Gliscor 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Good
+
+Mamoswine 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Porygon-Z 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Fair
+Initiative: Good
+
+Gallade 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Great
+Initiative: Good
+
+Gallade (Mega Gallade) 
+HP: Fair
+Melee Attack: Legendary
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Great
+Initiative: Great
+
+Probopass 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Superb
+Initiative: Mediocre
+
+Dusknoir 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Great
+Initiative: Mediocre
+
+Froslass 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Great
+
+Rotom (Normal Rotom) 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Rotom (Heat Rotom) 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Rotom (Wash Rotom) 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Rotom (Frost Rotom) 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Rotom (Fan Rotom) 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Rotom (Mow Rotom) 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Uxie 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Good
+
+Mesprit 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Azelf 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Fair
+Initiative: Great
+
+Dialga 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Legendary
+Ranged Defense: Good
+Initiative: Good
+
+Palkia 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Legendary
+Ranged Defense: Great
+Initiative: Good
+
+Heatran 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Fair
+
+Regigigas 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Good
+
+Giratina (Altered Forme) 
+HP: Great
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Good
+
+Giratina (Origin Forme) 
+HP: Great
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Cresselia 
+HP: Great
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Good
+
+Phione 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Manaphy 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Darkrai 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Great
+
+Shaymin (Land Forme) 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Shaymin (Sky Forme) 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Fair
+Initiative: Great
+
+Arceus 
+HP: Great
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Great
+Initiative: Great
+
+Victini 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Snivy 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Servine 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Serperior 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Great
+
+Tepig 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Pignite 
+HP: Good
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Emboar 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Fair
+
+Oshawott 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Dewott 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Samurott 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Fair
+
+Patrat 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Watchog 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Lillipup 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Herdier 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Fair
+
+Stoutland 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Good
+
+Purrloin 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Poor
+Initiative: Fair
+
+Liepard 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Good
+
+Pansage 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Simisage 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Pansear 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Simisear 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Panpour 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Simipour 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Munna 
+HP: Fair
+Melee Attack: Poor
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Musharna 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Poor
+
+Pidove 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Tranquill 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Unfezant 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Good
+
+Blitzle 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Poor
+Initiative: Fair
+
+Zebstrika 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Great
+
+Roggenrola 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Terrible
+
+Boldore 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Gigalith 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Poor
+
+Woobat 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Swoobat 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Great
+
+Drilbur 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Excadrill 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Audino 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Audino (Mega Audino) 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Mediocre
+
+Timburr 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Poor
+
+Gurdurr 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Conkeldurr 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Tympole 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Palpitoad 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Seismitoad 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Throh 
+HP: Great
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Mediocre
+
+Sawk 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Good
+
+Sewaddle 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Swadloon 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Leavanny 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Venipede 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Whirlipede 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Scolipede 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Great
+
+Cottonee 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Whimsicott 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Great
+
+Petilil 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Lilligant 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Basculin 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Good
+
+Sandile 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Fair
+
+Krokorok 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Krookodile 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Darumaka 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Darmanitan (Standard Mode) 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Good
+
+Darmanitan (Zen Mode) 
+HP: Good
+Melee Attack: Mediocre
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Mediocre
+
+Maractus 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Fair
+
+Dwebble 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Crustle 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Scraggy 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Scrafty 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Great
+Initiative: Mediocre
+
+Sigilyph 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Yamask 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Poor
+
+Cofagrigus 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Poor
+
+Tirtouga 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Carracosta 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Poor
+
+Archen 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Archeops 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Great
+
+Trubbish 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Fair
+
+Garbodor 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Fair
+
+Zorua 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Zoroark 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Fair
+Initiative: Good
+
+Minccino 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Cinccino 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Great
+
+Gothita 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Gothorita 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Gothitelle 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Fair
+
+Solosis 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Duosion 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Superb
+Ranged Defense: Fair
+Initiative: Poor
+
+Reuniclus 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Poor
+
+Ducklett 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Swanna 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Vanillite 
+HP: Poor
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Vanillish 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Vanilluxe 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Deerling 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Sawsbuck 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Emolga 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Karrablast 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Escavalier 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Poor
+
+Foongus 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Terrible
+
+Amoonguss 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Poor
+
+Frillish 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Jellicent 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Alomomola 
+HP: Great
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Joltik 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Galvantula 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Ferroseed 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Poor
+Ranged Defense: Good
+Initiative: Terrible
+
+Ferrothorn 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Great
+Initiative: Poor
+
+Klink 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Poor
+
+Klang 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Klinklang 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Tynamo 
+HP: Poor
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Eelektrik 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Eelektross 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Mediocre
+
+Elgyem 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Beheeyem 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Mediocre
+
+Litwick 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Lampent 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Chandelure 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Axew 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Fraxure 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Haxorus 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Cubchoo 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Beartic 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Cryogonal 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Good
+
+Shelmet 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Poor
+
+Accelgor 
+HP: Good
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Great
+
+Stunfisk 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Poor
+
+Mienfoo 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Mienshao 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Druddigon 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Golett 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Golurk 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Pawniard 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Bisharp 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Bouffalant 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Good
+Initiative: Mediocre
+
+Rufflet 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Braviary 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Vullaby 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Fair
+
+Mandibuzz 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Good
+
+Heatmor 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Fair
+
+Durant 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Good
+
+Deino 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Zweilous 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Hydreigon 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Larvesta 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Volcarona 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Cobalion 
+HP: Good
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Terrakion 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Virizion 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Good
+
+Tornadus (Incarnate Forme) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Great
+
+Tornadus (Therian Forme) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Great
+
+Thundurus (Incarnate Forme) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Great
+
+Thundurus (Therian Forme) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Reshiram 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Legendary
+Ranged Defense: Great
+Initiative: Good
+
+Zekrom 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Landorus (Incarnate Forme) 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Landorus (Therian Forme) 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Kyurem (Normal Kyurem) 
+HP: Great
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Kyurem (Black Kyurem) 
+HP: Great
+Melee Attack: Legendary
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Kyurem (White Kyurem) 
+HP: Great
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Legendary
+Ranged Defense: Good
+Initiative: Good
+
+Keldeo 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Meloetta (Aria Forme) 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Great
+Initiative: Good
+
+Meloetta (Pirouette Forme) 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Great
+
+Genesect 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Chespin 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Quilladin 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Chesnaught 
+HP: Good
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Fennekin 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Braixen 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Fair
+
+Delphox 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Froakie 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Frogadier 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Good
+
+Greninja 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Great
+
+Bunnelby 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Diggersby 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Fletchling 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Fair
+
+Fletchinder 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Good
+
+Talonflame 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Great
+
+Scatterbug 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Poor
+
+Spewpa 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Fair
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Poor
+
+Vivillon 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Good
+
+Litleo 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Pyroar 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Flabébé 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Floette 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Florges 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Superb
+Initiative: Fair
+
+Skiddo 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Gogoat 
+HP: Great
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Pancham 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Pangoro 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Furfrou 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Good
+
+Espurr 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Meowstic 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Honedge 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Poor
+
+Doublade 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Superb
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Aegislash (Shield Forme) 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Superb
+Ranged Attack: Fair
+Ranged Defense: Superb
+Initiative: Fair
+
+Aegislash (Blade Forme) 
+HP: Fair
+Melee Attack: Legendary
+Melee Defense: Mediocre
+Ranged Attack: Legendary
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Spritzee 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Poor
+
+Aromatisse 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Poor
+
+Swirlix 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Slurpuff 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Inkay 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Malamar 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Binacle 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Barbaracle 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Fair
+
+Skrelp 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Poor
+
+Dragalge 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Mediocre
+
+Clauncher 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Clawitzer 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Mediocre
+
+Helioptile 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Heliolisk 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Tyrunt 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Tyrantrum 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Amaura 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Aurorus 
+HP: Great
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Mediocre
+
+Sylveon 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Fair
+
+Hawlucha 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Great
+
+Dedenne 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Carbink 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Superb
+Ranged Attack: Fair
+Ranged Defense: Superb
+Initiative: Mediocre
+
+Goomy 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Sliggoo 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Fair
+
+Goodra 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Superb
+Initiative: Good
+
+Klefki 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Phantump 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Poor
+
+Trevenant 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Pumpkaboo (Small Size) 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Pumpkaboo (Average Size) 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Pumpkaboo (Large Size) 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Pumpkaboo (Super Size) 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Gourgeist (Small Size) 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Gourgeist (Average Size) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Gourgeist (Large Size) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Gourgeist (Super Size) 
+HP: Good
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Bergmite 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Poor
+
+Avalugg 
+HP: Good
+Melee Attack: Great
+Melee Defense: Superb
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Poor
+
+Noibat 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Noivern 
+HP: Good
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Great
+
+Xerneas 
+HP: Great
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Yveltal 
+HP: Great
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Zygarde 
+HP: Good
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Good
+
+Diancie 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Superb
+Ranged Attack: Great
+Ranged Defense: Superb
+Initiative: Mediocre
+
+Diancie (Mega Diancie) 
+HP: Mediocre
+Melee Attack: Legendary
+Melee Defense: Great
+Ranged Attack: Legendary
+Ranged Defense: Great
+Initiative: Great
+
+Hoopa (Hoopa Confined) 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Legendary
+Ranged Defense: Great
+Initiative: Fair
+
+Hoopa (Hoopa Unbound) 
+HP: Good
+Melee Attack: Legendary
+Melee Defense: Fair
+Ranged Attack: Legendary
+Ranged Defense: Great
+Initiative: Good
+
+Volcanion 
+HP: Good
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Fair
+
+Rowlet 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Dartrix 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Decidueye 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Litten 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Torracat 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Good
+
+Incineroar 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Popplio 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Brionne 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Mediocre
+
+Primarina 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Great
+Initiative: Fair
+
+Pikipek 
+HP: Poor
+Melee Attack: Good
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Fair
+
+Trumbeak 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Toucannon 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Fair
+
+Yungoos 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Gumshoos 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Grubbin 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Charjabug 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Poor
+
+Vikavolt 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Crabrawler 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Crabominable 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Mediocre
+
+Oricorio 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Good
+
+Cutiefly 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Good
+
+Ribombee 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Great
+
+Rockruff 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Lycanroc (Midday Form) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Great
+
+Lycanroc (Midnight Form) 
+HP: Good
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Good
+
+Wishiwashi (Solo Form) 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Poor
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Mediocre
+
+Wishiwashi (School Form) 
+HP: Mediocre
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Great
+Initiative: Poor
+
+Mareanie 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Toxapex 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Superb
+Ranged Attack: Fair
+Ranged Defense: Great
+Initiative: Poor
+
+Mudbray 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Mudsdale 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Poor
+
+Dewpider 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Poor
+
+Araquanid 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Great
+Initiative: Mediocre
+
+Fomantis 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Poor
+Ranged Attack: Fair
+Ranged Defense: Poor
+Initiative: Poor
+
+Lurantis 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Morelull 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Terrible
+
+Shiinotic 
+HP: Fair
+Melee Attack: Mediocre
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Poor
+
+Salandit 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Salazzle 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Great
+
+Stufful 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Bewear 
+HP: Great
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Bounsweet 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Poor
+Ranged Attack: Mediocre
+Ranged Defense: Poor
+Initiative: Poor
+
+Steenee 
+HP: Mediocre
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Tsareena 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Fair
+
+Comfey 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Great
+Initiative: Good
+
+Oranguru 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Fair
+
+Passimian 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Good
+
+Wimpod 
+HP: Poor
+Melee Attack: Mediocre
+Melee Defense: Mediocre
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Good
+
+Golisopod 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Mediocre
+
+Sandygast 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Mediocre
+Initiative: Terrible
+
+Palossand 
+HP: Good
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Poor
+
+Pyukumuku 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Great
+Ranged Attack: Mediocre
+Ranged Defense: Great
+Initiative: Terrible
+
+Type: Null 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Mediocre
+
+Silvally 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Minior (Meteor Form) 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Fair
+
+Minior (Core) 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Great
+
+Komala 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Turtonator 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Poor
+
+Togedemaru 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Fair
+Initiative: Good
+
+Mimikyu 
+HP: Mediocre
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Good
+Initiative: Good
+
+Bruxish 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Fair
+Ranged Attack: Good
+Ranged Defense: Fair
+Initiative: Good
+
+Drampa 
+HP: Fair
+Melee Attack: Fair
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Poor
+
+Dhelmise 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Mediocre
+
+Jangmo-o 
+HP: Mediocre
+Melee Attack: Fair
+Melee Defense: Fair
+Ranged Attack: Mediocre
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Hakamo-o 
+HP: Mediocre
+Melee Attack: Good
+Melee Defense: Good
+Ranged Attack: Fair
+Ranged Defense: Fair
+Initiative: Fair
+
+Kommo-o 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Tapu Koko 
+HP: Fair
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Fair
+Initiative: Great
+
+Tapu Lele 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Superb
+Ranged Defense: Great
+Initiative: Good
+
+Tapu Bulu 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Good
+Ranged Defense: Good
+Initiative: Fair
+
+Tapu Fini 
+HP: Fair
+Melee Attack: Good
+Melee Defense: Great
+Ranged Attack: Great
+Ranged Defense: Great
+Initiative: Good
+
+Cosmog 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Poor
+Ranged Attack: Poor
+Ranged Defense: Poor
+Initiative: Poor
+
+Cosmoem 
+HP: Mediocre
+Melee Attack: Poor
+Melee Defense: Great
+Ranged Attack: Poor
+Ranged Defense: Great
+Initiative: Poor
+
+Solgaleo 
+HP: Great
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Good
+
+Lunala 
+HP: Great
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Good
+
+Nihilego 
+HP: Good
+Melee Attack: Fair
+Melee Defense: Mediocre
+Ranged Attack: Superb
+Ranged Defense: Great
+Initiative: Good
+
+Buzzwole 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Mediocre
+Initiative: Fair
+
+Pheromosa 
+HP: Fair
+Melee Attack: Superb
+Melee Defense: Poor
+Ranged Attack: Superb
+Ranged Defense: Poor
+Initiative: Superb
+
+Xurkitree 
+HP: Good
+Melee Attack: Good
+Melee Defense: Fair
+Ranged Attack: Legendary
+Ranged Defense: Fair
+Initiative: Good
+
+Celesteela 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Fair
+
+Kartana 
+HP: Mediocre
+Melee Attack: Legendary
+Melee Defense: Great
+Ranged Attack: Fair
+Ranged Defense: Poor
+Initiative: Good
+
+Guzzlord 
+HP: Superb
+Melee Attack: Great
+Melee Defense: Mediocre
+Ranged Attack: Great
+Ranged Defense: Mediocre
+Initiative: Mediocre
+
+Necrozma 
+HP: Good
+Melee Attack: Great
+Melee Defense: Good
+Ranged Attack: Superb
+Ranged Defense: Good
+Initiative: Fair
+
+Magearna 
+HP: Good
+Melee Attack: Great
+Melee Defense: Great
+Ranged Attack: Superb
+Ranged Defense: Great
+Initiative: Fair
+
+Marshadow 
+HP: Good
+Melee Attack: Superb
+Melee Defense: Good
+Ranged Attack: Great
+Ranged Defense: Good
+Initiative: Great
+
