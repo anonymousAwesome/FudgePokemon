@@ -1,4415 +1,4415 @@
-Bulbasaur : 
-HP: Mediocre (45)
-Threat Rating: Fair (228)
-Initiative: Mediocre (45)
-
-Ivysaur : 
-HP: Fair (60)
-Threat Rating: Good (285)
-Initiative: Fair (60)
-
-Venusaur : 
-HP: Good (80)
-Threat Rating: Superb (365)
-Initiative: Good (80)
-
-Venusaur (Mega Venusaur) : 
-HP: Good (80)
-Threat Rating: Good Superhuman (Legendary+1) (465)
-Initiative: Good (80)
-
-Charmander : 
-HP: Poor (39)
-Threat Rating: Fair (205)
-Initiative: Fair (65)
-
-Charmeleon : 
-HP: Mediocre (58)
-Threat Rating: Good (267)
-Initiative: Good (80)
-
-Charizard : 
-HP: Fair (78)
-Threat Rating: Superb (356)
-Initiative: Good (100)
-
-Charizard (Mega Charizard X) : 
-HP: Fair (78)
-Threat Rating: Good Superhuman (Legendary+1) (456)
-Initiative: Good (100)
-
-Charizard (Mega Charizard Y) : 
-HP: Fair (78)
-Threat Rating: Good Superhuman (Legendary+1) (456)
-Initiative: Good (100)
-
-Squirtle : 
-HP: Mediocre (44)
-Threat Rating: Fair (227)
-Initiative: Mediocre (43)
-
-Wartortle : 
-HP: Mediocre (59)
-Threat Rating: Good (288)
-Initiative: Mediocre (58)
-
-Blastoise : 
-HP: Fair (79)
-Threat Rating: Superb (373)
-Initiative: Fair (78)
-
-Blastoise (Mega Blastoise) : 
-HP: Fair (79)
-Threat Rating: Good Superhuman (Legendary+1) (473)
-Initiative: Fair (78)
-
-Caterpie : 
-HP: Mediocre (45)
-Threat Rating: Poor (105)
-Initiative: Mediocre (45)
-
-Metapod : 
-HP: Mediocre (50)
-Threat Rating: Poor (125)
-Initiative: Poor (30)
-
-Butterfree : 
-HP: Fair (60)
-Threat Rating: Good (265)
-Initiative: Fair (70)
-
-Weedle : 
-HP: Mediocre (40)
-Threat Rating: Poor (105)
-Initiative: Mediocre (50)
-
-Kakuna : 
-HP: Mediocre (45)
-Threat Rating: Poor (125)
-Initiative: Poor (35)
-
-Beedrill : 
-HP: Fair (65)
-Threat Rating: Good (255)
-Initiative: Fair (75)
-
-Beedrill (Mega Beedrill) : 
-HP: Fair (65)
-Threat Rating: Good (285)
-Initiative: Great (145)
-
-Pidgey : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (155)
-Initiative: Mediocre (56)
-
-Pidgeotto : 
-HP: Fair (63)
-Threat Rating: Fair (215)
-Initiative: Fair (71)
-
-Pidgeot : 
-HP: Good (83)
-Threat Rating: Great (295)
-Initiative: Good (101)
-
-Pidgeot (Mega Pidgeot) : 
-HP: Good (83)
-Threat Rating: Superb (375)
-Initiative: Great (121)
-
-Rattata : 
-HP: Poor (30)
-Threat Rating: Mediocre (151)
-Initiative: Fair (72)
-
-Raticate : 
-HP: Mediocre (55)
-Threat Rating: Good (261)
-Initiative: Good (97)
-
-Spearow : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (152)
-Initiative: Fair (70)
-
-Fearow : 
-HP: Fair (65)
-Threat Rating: Good (277)
-Initiative: Good (100)
-
-Ekans : 
-HP: Poor (35)
-Threat Rating: Fair (198)
-Initiative: Mediocre (55)
-
-Arbok : 
-HP: Fair (60)
-Threat Rating: Great (298)
-Initiative: Good (80)
-
-Pikachu : 
-HP: Poor (35)
-Threat Rating: Fair (195)
-Initiative: Good (90)
-
-Raichu : 
-HP: Fair (60)
-Threat Rating: Great (315)
-Initiative: Great (110)
-
-Sandshrew : 
-HP: Mediocre (50)
-Threat Rating: Fair (210)
-Initiative: Mediocre (40)
-
-Sandslash : 
-HP: Fair (75)
-Threat Rating: Great (310)
-Initiative: Fair (65)
-
-Sandslash : 
-HP: Fair (75)
-Threat Rating: Great (310)
-Initiative: Fair (65)
-
-Nidoran♀ : 
-HP: Mediocre (55)
-Threat Rating: Mediocre (179)
-Initiative: Mediocre (41)
-
-Nidorina : 
-HP: Fair (70)
-Threat Rating: Good (239)
-Initiative: Mediocre (56)
-
-Nidoqueen : 
-HP: Good (90)
-Threat Rating: Great (339)
-Initiative: Fair (76)
-
-Nidoran♂ : 
-HP: Mediocre (46)
-Threat Rating: Mediocre (177)
-Initiative: Mediocre (50)
-
-Nidorino : 
-HP: Fair (61)
-Threat Rating: Good (239)
-Initiative: Fair (65)
-
-Nidoking : 
-HP: Good (81)
-Threat Rating: Great (339)
-Initiative: Good (85)
-
-Clefairy : 
-HP: Fair (70)
-Threat Rating: Fair (218)
-Initiative: Poor (35)
-
-Clefable : 
-HP: Good (95)
-Threat Rating: Great (328)
-Initiative: Fair (60)
-
-Vulpix : 
-HP: Poor (38)
-Threat Rating: Fair (196)
-Initiative: Fair (65)
-
-Ninetales : 
-HP: Fair (73)
-Threat Rating: Great (332)
-Initiative: Good (100)
-
-Jigglypuff : 
-HP: Good (115)
-Threat Rating: Mediocre (135)
-Initiative: Poor (20)
-
-Wigglytuff : 
-HP: Great (140)
-Threat Rating: Good (250)
-Initiative: Mediocre (45)
-
-Zubat : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (150)
-Initiative: Mediocre (55)
-
-Golbat : 
-HP: Fair (75)
-Threat Rating: Good (290)
-Initiative: Good (90)
-
-Oddish : 
-HP: Mediocre (45)
-Threat Rating: Good (245)
-Initiative: Poor (30)
-
-Gloom : 
-HP: Fair (60)
-Threat Rating: Great (295)
-Initiative: Mediocre (40)
-
-Vileplume : 
-HP: Fair (75)
-Threat Rating: Superb (365)
-Initiative: Mediocre (50)
-
-Paras : 
-HP: Poor (35)
-Threat Rating: Fair (225)
-Initiative: Poor (25)
-
-Parasect : 
-HP: Fair (60)
-Threat Rating: Great (315)
-Initiative: Poor (30)
-
-Venonat : 
-HP: Fair (60)
-Threat Rating: Fair (200)
-Initiative: Mediocre (45)
-
-Venomoth : 
-HP: Fair (70)
-Threat Rating: Good (290)
-Initiative: Good (90)
-
-Diglett : 
-HP: Terrible (10)
-Threat Rating: Mediocre (160)
-Initiative: Good (95)
-
-Dugtrio : 
-HP: Poor (35)
-Threat Rating: Good (250)
-Initiative: Great (120)
-
-Meowth : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (160)
-Initiative: Good (90)
-
-Persian : 
-HP: Fair (65)
-Threat Rating: Good (260)
-Initiative: Great (115)
-
-Psyduck : 
-HP: Mediocre (50)
-Threat Rating: Fair (215)
-Initiative: Mediocre (55)
-
-Golduck : 
-HP: Good (80)
-Threat Rating: Great (335)
-Initiative: Good (85)
-
-Mankey : 
-HP: Mediocre (40)
-Threat Rating: Fair (195)
-Initiative: Fair (70)
-
-Primeape : 
-HP: Fair (65)
-Threat Rating: Great (295)
-Initiative: Good (95)
-
-Growlithe : 
-HP: Mediocre (55)
-Threat Rating: Fair (235)
-Initiative: Fair (60)
-
-Arcanine : 
-HP: Good (90)
-Threat Rating: Superb (370)
-Initiative: Good (95)
-
-Poliwag : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (170)
-Initiative: Good (90)
-
-Poliwhirl : 
-HP: Fair (65)
-Threat Rating: Fair (230)
-Initiative: Good (90)
-
-Poliwrath : 
-HP: Good (90)
-Threat Rating: Superb (350)
-Initiative: Fair (70)
-
-Abra : 
-HP: Poor (25)
-Threat Rating: Fair (195)
-Initiative: Good (90)
-
-Kadabra : 
-HP: Mediocre (40)
-Threat Rating: Good (255)
-Initiative: Good (105)
-
-Alakazam : 
-HP: Mediocre (55)
-Threat Rating: Great (325)
-Initiative: Great (120)
-
-Alakazam (Mega Alakazam) : 
-HP: Mediocre (55)
-Threat Rating: Superb (385)
-Initiative: Superb (150)
-
-Machop : 
-HP: Fair (70)
-Threat Rating: Fair (200)
-Initiative: Poor (35)
-
-Machoke : 
-HP: Good (80)
-Threat Rating: Good (280)
-Initiative: Mediocre (45)
-
-Machamp : 
-HP: Good (90)
-Threat Rating: Superb (360)
-Initiative: Mediocre (55)
-
-Bellsprout : 
-HP: Mediocre (50)
-Threat Rating: Fair (210)
-Initiative: Mediocre (40)
-
-Weepinbell : 
-HP: Fair (65)
-Threat Rating: Good (270)
-Initiative: Mediocre (55)
-
-Victreebel : 
-HP: Good (80)
-Threat Rating: Great (340)
-Initiative: Fair (70)
-
-Tentacool : 
-HP: Mediocre (40)
-Threat Rating: Fair (225)
-Initiative: Fair (70)
-
-Tentacruel : 
-HP: Good (80)
-Threat Rating: Great (335)
-Initiative: Good (100)
-
-Geodude : 
-HP: Mediocre (40)
-Threat Rating: Good (240)
-Initiative: Poor (20)
-
-Graveler : 
-HP: Mediocre (55)
-Threat Rating: Great (300)
-Initiative: Poor (35)
-
-Golem : 
-HP: Good (80)
-Threat Rating: Superb (370)
-Initiative: Mediocre (45)
-
-Ponyta : 
-HP: Mediocre (50)
-Threat Rating: Good (270)
-Initiative: Good (90)
-
-Rapidash : 
-HP: Fair (65)
-Threat Rating: Great (330)
-Initiative: Good (105)
-
-Slowpoke : 
-HP: Good (90)
-Threat Rating: Fair (210)
-Initiative: Terrible (15)
-
-Slowbro : 
-HP: Good (95)
-Threat Rating: Superb (365)
-Initiative: Poor (30)
-
-Slowbro (Mega Slowbro) : 
-HP: Good (95)
-Threat Rating: Good Superhuman (Legendary+1) (465)
-Initiative: Poor (30)
-
-Magnemite : 
-HP: Poor (25)
-Threat Rating: Good (255)
-Initiative: Mediocre (45)
-
-Magneton : 
-HP: Mediocre (50)
-Threat Rating: Superb (345)
-Initiative: Fair (70)
-
-Farfetch'd : 
-HP: Mediocre (52)
-Threat Rating: Good (240)
-Initiative: Fair (60)
-
-Doduo : 
-HP: Poor (35)
-Threat Rating: Fair (200)
-Initiative: Fair (75)
-
-Dodrio : 
-HP: Fair (60)
-Threat Rating: Great (300)
-Initiative: Good (100)
-
-Seel : 
-HP: Fair (65)
-Threat Rating: Fair (215)
-Initiative: Mediocre (45)
-
-Dewgong : 
-HP: Good (90)
-Threat Rating: Great (315)
-Initiative: Fair (70)
-
-Grimer : 
-HP: Good (80)
-Threat Rating: Fair (220)
-Initiative: Poor (25)
-
-Muk : 
-HP: Good (105)
-Threat Rating: Superb (345)
-Initiative: Mediocre (50)
-
-Shellder : 
-HP: Poor (30)
-Threat Rating: Fair (235)
-Initiative: Mediocre (40)
-
-Cloyster : 
-HP: Mediocre (50)
-Threat Rating: Fair Superhuman (Legendary) (405)
-Initiative: Fair (70)
-
-Gastly : 
-HP: Poor (30)
-Threat Rating: Fair (200)
-Initiative: Good (80)
-
-Haunter : 
-HP: Mediocre (45)
-Threat Rating: Good (265)
-Initiative: Good (95)
-
-Gengar : 
-HP: Fair (60)
-Threat Rating: Great (330)
-Initiative: Great (110)
-
-Gengar (Mega Gengar) : 
-HP: Fair (60)
-Threat Rating: Fair Superhuman (Legendary) (410)
-Initiative: Great (130)
-
-Onix : 
-HP: Poor (35)
-Threat Rating: Good (280)
-Initiative: Fair (70)
-
-Drowzee : 
-HP: Fair (60)
-Threat Rating: Fair (226)
-Initiative: Mediocre (42)
-
-Hypno : 
-HP: Good (85)
-Threat Rating: Great (331)
-Initiative: Fair (67)
-
-Krabby : 
-HP: Poor (30)
-Threat Rating: Good (245)
-Initiative: Mediocre (50)
-
-Kingler : 
-HP: Mediocre (55)
-Threat Rating: Superb (345)
-Initiative: Fair (75)
-
-Voltorb : 
-HP: Mediocre (40)
-Threat Rating: Fair (190)
-Initiative: Good (100)
-
-Electrode : 
-HP: Fair (60)
-Threat Rating: Good (280)
-Initiative: Great (140)
-
-Exeggcute : 
-HP: Fair (60)
-Threat Rating: Fair (225)
-Initiative: Mediocre (40)
-
-Exeggutor : 
-HP: Good (95)
-Threat Rating: Superb (370)
-Initiative: Mediocre (55)
-
-Cubone : 
-HP: Mediocre (50)
-Threat Rating: Fair (235)
-Initiative: Poor (35)
-
-Marowak : 
-HP: Fair (60)
-Threat Rating: Great (320)
-Initiative: Mediocre (45)
-
-Hitmonlee : 
-HP: Mediocre (50)
-Threat Rating: Great (318)
-Initiative: Good (87)
-
-Hitmonchan : 
-HP: Mediocre (50)
-Threat Rating: Great (329)
-Initiative: Fair (76)
-
-Lickitung : 
-HP: Good (90)
-Threat Rating: Good (265)
-Initiative: Poor (30)
-
-Koffing : 
-HP: Mediocre (40)
-Threat Rating: Good (265)
-Initiative: Poor (35)
-
-Weezing : 
-HP: Fair (65)
-Threat Rating: Superb (365)
-Initiative: Fair (60)
-
-Rhyhorn : 
-HP: Good (80)
-Threat Rating: Good (240)
-Initiative: Poor (25)
-
-Rhydon : 
-HP: Good (105)
-Threat Rating: Great (340)
-Initiative: Mediocre (40)
-
-Chansey : 
-HP: Superb (250)
-Threat Rating: Mediocre (150)
-Initiative: Mediocre (50)
-
-Tangela : 
-HP: Fair (65)
-Threat Rating: Great (310)
-Initiative: Fair (60)
-
-Kangaskhan : 
-HP: Good (105)
-Threat Rating: Great (295)
-Initiative: Good (90)
-
-Kangaskhan (Mega Kangaskhan) : 
-HP: Good (105)
-Threat Rating: Superb (385)
-Initiative: Good (100)
-
-Horsea : 
-HP: Poor (30)
-Threat Rating: Fair (205)
-Initiative: Fair (60)
-
-Seadra : 
-HP: Mediocre (55)
-Threat Rating: Great (300)
-Initiative: Good (85)
-
-Goldeen : 
-HP: Mediocre (45)
-Threat Rating: Fair (212)
-Initiative: Fair (63)
-
-Seaking : 
-HP: Good (80)
-Threat Rating: Great (302)
-Initiative: Fair (68)
-
-Staryu : 
-HP: Poor (30)
-Threat Rating: Fair (225)
-Initiative: Good (85)
-
-Starmie : 
-HP: Fair (60)
-Threat Rating: Superb (345)
-Initiative: Great (115)
-
-Mr. Mime : 
-HP: Mediocre (40)
-Threat Rating: Great (330)
-Initiative: Good (90)
-
-Scyther : 
-HP: Fair (70)
-Threat Rating: Great (325)
-Initiative: Good (105)
-
-Jynx : 
-HP: Fair (65)
-Threat Rating: Great (295)
-Initiative: Good (95)
-
-Electabuzz : 
-HP: Fair (65)
-Threat Rating: Great (320)
-Initiative: Good (105)
-
-Magmar : 
-HP: Fair (65)
-Threat Rating: Great (337)
-Initiative: Good (93)
-
-Pinsir : 
-HP: Fair (65)
-Threat Rating: Superb (350)
-Initiative: Good (85)
-
-Pinsir (Mega Pinsir) : 
-HP: Fair (65)
-Threat Rating: Fair Superhuman (Legendary) (430)
-Initiative: Good (105)
-
-Tauros : 
-HP: Fair (75)
-Threat Rating: Great (305)
-Initiative: Great (110)
-
-Magikarp : 
-HP: Poor (20)
-Threat Rating: Poor (100)
-Initiative: Good (80)
-
-Gyarados : 
-HP: Good (95)
-Threat Rating: Superb (364)
-Initiative: Good (81)
-
-Gyarados (Mega Gyarados) : 
-HP: Good (95)
-Threat Rating: Good Superhuman (Legendary+1) (464)
-Initiative: Good (81)
-
-Lapras : 
-HP: Great (130)
-Threat Rating: Superb (345)
-Initiative: Fair (60)
-
-Ditto : 
-HP: Mediocre (48)
-Threat Rating: Fair (192)
-Initiative: Mediocre (48)
-
-Eevee : 
-HP: Mediocre (55)
-Threat Rating: Fair (215)
-Initiative: Mediocre (55)
-
-Vaporeon : 
-HP: Great (130)
-Threat Rating: Great (330)
-Initiative: Fair (65)
-
-Jolteon : 
-HP: Fair (65)
-Threat Rating: Great (330)
-Initiative: Great (130)
-
-Flareon : 
-HP: Fair (65)
-Threat Rating: Superb (395)
-Initiative: Fair (65)
-
-Porygon : 
-HP: Fair (65)
-Threat Rating: Good (290)
-Initiative: Mediocre (40)
-
-Omanyte : 
-HP: Poor (35)
-Threat Rating: Good (285)
-Initiative: Poor (35)
-
-Omastar : 
-HP: Fair (70)
-Threat Rating: Superb (370)
-Initiative: Mediocre (55)
-
-Kabuto : 
-HP: Poor (30)
-Threat Rating: Good (270)
-Initiative: Mediocre (55)
-
-Kabutops : 
-HP: Fair (60)
-Threat Rating: Superb (355)
-Initiative: Good (80)
-
-Aerodactyl : 
-HP: Good (80)
-Threat Rating: Great (305)
-Initiative: Great (130)
-
-Aerodactyl (Mega Aerodactyl) : 
-HP: Good (80)
-Threat Rating: Superb (385)
-Initiative: Superb (150)
-
-Snorlax : 
-HP: Great (160)
-Threat Rating: Superb (350)
-Initiative: Poor (30)
-
-Articuno : 
-HP: Good (90)
-Threat Rating: Fair Superhuman (Legendary) (405)
-Initiative: Good (85)
-
-Zapdos : 
-HP: Good (90)
-Threat Rating: Superb (390)
-Initiative: Good (100)
-
-Moltres : 
-HP: Good (90)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Good (90)
-
-Dratini : 
-HP: Mediocre (41)
-Threat Rating: Fair (209)
-Initiative: Mediocre (50)
-
-Dragonair : 
-HP: Fair (61)
-Threat Rating: Good (289)
-Initiative: Fair (70)
-
-Dragonite : 
-HP: Good (91)
-Threat Rating: Fair Superhuman (Legendary) (429)
-Initiative: Good (80)
-
-Mewtwo : 
-HP: Good (106)
-Threat Rating: Fair Superhuman (Legendary) (444)
-Initiative: Great (130)
-
-Mewtwo (Mega Mewtwo X) : 
-HP: Good (106)
-Threat Rating: Great Superhuman (Legendary+2) (544)
-Initiative: Great (130)
-
-Mewtwo (Mega Mewtwo Y) : 
-HP: Good (106)
-Threat Rating: Great Superhuman (Legendary+2) (534)
-Initiative: Great (140)
-
-Mew : 
-HP: Good (100)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Good (100)
-
-Chikorita : 
-HP: Mediocre (45)
-Threat Rating: Fair (228)
-Initiative: Mediocre (45)
-
-Bayleef : 
-HP: Fair (60)
-Threat Rating: Good (285)
-Initiative: Fair (60)
-
-Meganium : 
-HP: Good (80)
-Threat Rating: Superb (365)
-Initiative: Good (80)
-
-Cyndaquil : 
-HP: Poor (39)
-Threat Rating: Fair (205)
-Initiative: Fair (65)
-
-Quilava : 
-HP: Mediocre (58)
-Threat Rating: Good (267)
-Initiative: Good (80)
-
-Typhlosion : 
-HP: Fair (78)
-Threat Rating: Superb (356)
-Initiative: Good (100)
-
-Totodile : 
-HP: Mediocre (50)
-Threat Rating: Fair (221)
-Initiative: Mediocre (43)
-
-Croconaw : 
-HP: Fair (65)
-Threat Rating: Good (282)
-Initiative: Mediocre (58)
-
-Feraligatr : 
-HP: Good (85)
-Threat Rating: Superb (367)
-Initiative: Fair (78)
-
-Sentret : 
-HP: Poor (35)
-Threat Rating: Mediocre (160)
-Initiative: Poor (20)
-
-Furret : 
-HP: Good (85)
-Threat Rating: Good (240)
-Initiative: Good (90)
-
-Hoothoot : 
-HP: Fair (60)
-Threat Rating: Mediocre (152)
-Initiative: Mediocre (50)
-
-Noctowl : 
-HP: Good (100)
-Threat Rating: Good (272)
-Initiative: Fair (70)
-
-Ledyba : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (170)
-Initiative: Mediocre (55)
-
-Ledian : 
-HP: Mediocre (55)
-Threat Rating: Good (250)
-Initiative: Good (85)
-
-Spinarak : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (180)
-Initiative: Poor (30)
-
-Ariados : 
-HP: Fair (70)
-Threat Rating: Good (280)
-Initiative: Mediocre (40)
-
-Crobat : 
-HP: Good (85)
-Threat Rating: Great (320)
-Initiative: Great (130)
-
-Chinchou : 
-HP: Fair (75)
-Threat Rating: Fair (188)
-Initiative: Fair (67)
-
-Lanturn : 
-HP: Great (125)
-Threat Rating: Good (268)
-Initiative: Fair (67)
-
-Pichu : 
-HP: Poor (20)
-Threat Rating: Poor (125)
-Initiative: Fair (60)
-
-Cleffa : 
-HP: Mediocre (50)
-Threat Rating: Mediocre (153)
-Initiative: Terrible (15)
-
-Igglybuff : 
-HP: Good (90)
-Threat Rating: Poor (105)
-Initiative: Terrible (15)
-
-Togepi : 
-HP: Poor (35)
-Threat Rating: Fair (190)
-Initiative: Poor (20)
-
-Togetic : 
-HP: Mediocre (55)
-Threat Rating: Great (310)
-Initiative: Mediocre (40)
-
-Natu : 
-HP: Mediocre (40)
-Threat Rating: Fair (210)
-Initiative: Fair (70)
-
-Xatu : 
-HP: Fair (65)
-Threat Rating: Great (310)
-Initiative: Good (95)
-
-Mareep : 
-HP: Mediocre (55)
-Threat Rating: Fair (190)
-Initiative: Poor (35)
-
-Flaaffy : 
-HP: Fair (70)
-Threat Rating: Good (250)
-Initiative: Mediocre (45)
-
-Ampharos : 
-HP: Good (90)
-Threat Rating: Superb (365)
-Initiative: Mediocre (55)
-
-Ampharos (Mega Ampharos) : 
-HP: Good (90)
-Threat Rating: Good Superhuman (Legendary+1) (475)
-Initiative: Mediocre (45)
-
-Bellossom : 
-HP: Fair (75)
-Threat Rating: Superb (365)
-Initiative: Mediocre (50)
-
-Marill : 
-HP: Fair (70)
-Threat Rating: Mediocre (140)
-Initiative: Mediocre (40)
-
-Azumarill : 
-HP: Good (100)
-Threat Rating: Good (270)
-Initiative: Mediocre (50)
-
-Sudowoodo : 
-HP: Fair (70)
-Threat Rating: Great (310)
-Initiative: Poor (30)
-
-Politoed : 
-HP: Good (90)
-Threat Rating: Great (340)
-Initiative: Fair (70)
-
-Hoppip : 
-HP: Poor (35)
-Threat Rating: Mediocre (165)
-Initiative: Mediocre (50)
-
-Skiploom : 
-HP: Mediocre (55)
-Threat Rating: Fair (205)
-Initiative: Good (80)
-
-Jumpluff : 
-HP: Fair (75)
-Threat Rating: Good (275)
-Initiative: Great (110)
-
-Aipom : 
-HP: Mediocre (55)
-Threat Rating: Fair (220)
-Initiative: Good (85)
-
-Sunkern : 
-HP: Poor (30)
-Threat Rating: Poor (120)
-Initiative: Poor (30)
-
-Sunflora : 
-HP: Fair (75)
-Threat Rating: Great (320)
-Initiative: Poor (30)
-
-Yanma : 
-HP: Fair (65)
-Threat Rating: Fair (230)
-Initiative: Good (95)
-
-Wooper : 
-HP: Mediocre (55)
-Threat Rating: Mediocre (140)
-Initiative: Terrible (15)
-
-Quagsire : 
-HP: Good (95)
-Threat Rating: Great (300)
-Initiative: Poor (35)
-
-Espeon : 
-HP: Fair (65)
-Threat Rating: Superb (350)
-Initiative: Great (110)
-
-Umbreon : 
-HP: Good (95)
-Threat Rating: Superb (365)
-Initiative: Fair (65)
-
-Murkrow : 
-HP: Fair (60)
-Threat Rating: Good (254)
-Initiative: Good (91)
-
-Slowking : 
-HP: Good (95)
-Threat Rating: Superb (365)
-Initiative: Poor (30)
-
-Misdreavus : 
-HP: Fair (60)
-Threat Rating: Good (290)
-Initiative: Good (85)
-
-Unown : 
-HP: Mediocre (48)
-Threat Rating: Good (240)
-Initiative: Mediocre (48)
-
-Wobbuffet : 
-HP: Superb (190)
-Threat Rating: Mediocre (182)
-Initiative: Poor (33)
-
-Girafarig : 
-HP: Fair (70)
-Threat Rating: Great (300)
-Initiative: Good (85)
-
-Pineco : 
-HP: Mediocre (50)
-Threat Rating: Fair (225)
-Initiative: Terrible (15)
-
-Forretress : 
-HP: Fair (75)
-Threat Rating: Superb (350)
-Initiative: Mediocre (40)
-
-Dunsparce : 
-HP: Good (100)
-Threat Rating: Good (270)
-Initiative: Mediocre (45)
-
-Gligar : 
-HP: Fair (65)
-Threat Rating: Good (280)
-Initiative: Good (85)
-
-Steelix : 
-HP: Fair (75)
-Threat Rating: Fair Superhuman (Legendary) (405)
-Initiative: Poor (30)
-
-Steelix (Mega Steelix) : 
-HP: Fair (75)
-Threat Rating: Great Superhuman (Legendary+2) (505)
-Initiative: Poor (30)
-
-Snubbull : 
-HP: Fair (60)
-Threat Rating: Fair (210)
-Initiative: Poor (30)
-
-Granbull : 
-HP: Good (90)
-Threat Rating: Great (315)
-Initiative: Mediocre (45)
-
-Qwilfish : 
-HP: Fair (65)
-Threat Rating: Good (280)
-Initiative: Good (85)
-
-Scizor : 
-HP: Fair (70)
-Threat Rating: Superb (365)
-Initiative: Fair (65)
-
-Scizor (Mega Scizor) : 
-HP: Fair (70)
-Threat Rating: Good Superhuman (Legendary+1) (455)
-Initiative: Fair (75)
-
-Shuckle : 
-HP: Poor (20)
-Threat Rating: Good Superhuman (Legendary+1) (480)
-Initiative: Terrible (5)
-
-Heracross : 
-HP: Good (80)
-Threat Rating: Great (335)
-Initiative: Good (85)
-
-Heracross (Mega Heracross) : 
-HP: Good (80)
-Threat Rating: Fair Superhuman (Legendary) (445)
-Initiative: Fair (75)
-
-Sneasel : 
-HP: Mediocre (55)
-Threat Rating: Good (260)
-Initiative: Great (115)
-
-Teddiursa : 
-HP: Fair (60)
-Threat Rating: Fair (230)
-Initiative: Mediocre (40)
-
-Ursaring : 
-HP: Good (90)
-Threat Rating: Superb (355)
-Initiative: Mediocre (55)
-
-Slugma : 
-HP: Mediocre (40)
-Threat Rating: Fair (190)
-Initiative: Poor (20)
-
-Magcargo : 
-HP: Mediocre (50)
-Threat Rating: Great (330)
-Initiative: Poor (30)
-
-Swinub : 
-HP: Mediocre (50)
-Threat Rating: Mediocre (150)
-Initiative: Mediocre (50)
-
-Piloswine : 
-HP: Good (100)
-Threat Rating: Great (300)
-Initiative: Mediocre (50)
-
-Corsola : 
-HP: Mediocre (55)
-Threat Rating: Good (290)
-Initiative: Poor (35)
-
-Remoraid : 
-HP: Poor (35)
-Threat Rating: Fair (200)
-Initiative: Fair (65)
-
-Octillery : 
-HP: Fair (75)
-Threat Rating: Superb (360)
-Initiative: Mediocre (45)
-
-Delibird : 
-HP: Mediocre (45)
-Threat Rating: Fair (210)
-Initiative: Fair (75)
-
-Mantine : 
-HP: Fair (65)
-Threat Rating: Great (330)
-Initiative: Fair (70)
-
-Skarmory : 
-HP: Fair (65)
-Threat Rating: Great (330)
-Initiative: Fair (70)
-
-Houndour : 
-HP: Mediocre (45)
-Threat Rating: Fair (220)
-Initiative: Fair (65)
-
-Houndoom : 
-HP: Fair (75)
-Threat Rating: Great (330)
-Initiative: Good (95)
-
-Houndoom (Mega Houndoom) : 
-HP: Fair (75)
-Threat Rating: Fair Superhuman (Legendary) (410)
-Initiative: Great (115)
-
-Kingdra : 
-HP: Fair (75)
-Threat Rating: Superb (380)
-Initiative: Good (85)
-
-Phanpy : 
-HP: Good (90)
-Threat Rating: Fair (200)
-Initiative: Mediocre (40)
-
-Donphan : 
-HP: Good (90)
-Threat Rating: Superb (360)
-Initiative: Mediocre (50)
-
-Porygon2 : 
-HP: Good (85)
-Threat Rating: Superb (370)
-Initiative: Fair (60)
-
-Stantler : 
-HP: Fair (73)
-Threat Rating: Great (307)
-Initiative: Good (85)
-
-Smeargle : 
-HP: Mediocre (55)
-Threat Rating: Poor (120)
-Initiative: Fair (75)
-
-Tyrogue : 
-HP: Poor (35)
-Threat Rating: Mediocre (140)
-Initiative: Poor (35)
-
-Hitmontop : 
-HP: Mediocre (50)
-Threat Rating: Great (335)
-Initiative: Fair (70)
-
-Smoochum : 
-HP: Mediocre (45)
-Threat Rating: Fair (195)
-Initiative: Fair (65)
-
-Elekid : 
-HP: Mediocre (45)
-Threat Rating: Fair (220)
-Initiative: Good (95)
-
-Magby : 
-HP: Mediocre (45)
-Threat Rating: Fair (237)
-Initiative: Good (83)
-
-Miltank : 
-HP: Good (95)
-Threat Rating: Great (295)
-Initiative: Good (100)
-
-Blissey : 
-HP: Superb (255)
-Threat Rating: Fair (230)
-Initiative: Mediocre (55)
-
-Raikou : 
-HP: Good (90)
-Threat Rating: Superb (375)
-Initiative: Great (115)
-
-Entei : 
-HP: Good (115)
-Threat Rating: Superb (365)
-Initiative: Good (100)
-
-Suicune : 
-HP: Good (100)
-Threat Rating: Superb (395)
-Initiative: Good (85)
-
-Larvitar : 
-HP: Mediocre (50)
-Threat Rating: Fair (209)
-Initiative: Mediocre (41)
-
-Pupitar : 
-HP: Fair (70)
-Threat Rating: Good (289)
-Initiative: Mediocre (51)
-
-Tyranitar : 
-HP: Good (100)
-Threat Rating: Fair Superhuman (Legendary) (439)
-Initiative: Fair (61)
-
-Tyranitar (Mega Tyranitar) : 
-HP: Good (100)
-Threat Rating: Great Superhuman (Legendary+2) (529)
-Initiative: Fair (71)
-
-Lugia : 
-HP: Good (106)
-Threat Rating: Good Superhuman (Legendary+1) (464)
-Initiative: Great (110)
-
-Ho-Oh : 
-HP: Good (106)
-Threat Rating: Good Superhuman (Legendary+1) (484)
-Initiative: Good (90)
-
-Celebi : 
-HP: Good (100)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Good (100)
-
-Treecko : 
-HP: Mediocre (40)
-Threat Rating: Fair (200)
-Initiative: Fair (70)
-
-Grovyle : 
-HP: Mediocre (50)
-Threat Rating: Good (260)
-Initiative: Good (95)
-
-Sceptile : 
-HP: Fair (70)
-Threat Rating: Great (340)
-Initiative: Great (120)
-
-Sceptile (Mega Sceptile) : 
-HP: Fair (70)
-Threat Rating: Fair Superhuman (Legendary) (415)
-Initiative: Great (145)
-
-Torchic : 
-HP: Mediocre (45)
-Threat Rating: Fair (220)
-Initiative: Mediocre (45)
-
-Combusken : 
-HP: Fair (60)
-Threat Rating: Good (290)
-Initiative: Mediocre (55)
-
-Blaziken : 
-HP: Good (80)
-Threat Rating: Superb (370)
-Initiative: Good (80)
-
-Blaziken (Mega Blaziken) : 
-HP: Good (80)
-Threat Rating: Good Superhuman (Legendary+1) (450)
-Initiative: Good (100)
-
-Mudkip : 
-HP: Mediocre (50)
-Threat Rating: Fair (220)
-Initiative: Mediocre (40)
-
-Marshtomp : 
-HP: Fair (70)
-Threat Rating: Good (285)
-Initiative: Mediocre (50)
-
-Swampert : 
-HP: Good (100)
-Threat Rating: Superb (375)
-Initiative: Fair (60)
-
-Swampert (Mega Swampert) : 
-HP: Good (100)
-Threat Rating: Good Superhuman (Legendary+1) (465)
-Initiative: Fair (70)
-
-Poochyena : 
-HP: Poor (35)
-Threat Rating: Mediocre (150)
-Initiative: Poor (35)
-
-Mightyena : 
-HP: Fair (70)
-Threat Rating: Good (280)
-Initiative: Fair (70)
-
-Zigzagoon : 
-HP: Poor (38)
-Threat Rating: Mediocre (142)
-Initiative: Fair (60)
-
-Linoone : 
-HP: Fair (78)
-Threat Rating: Good (242)
-Initiative: Good (100)
-
-Wurmple : 
-HP: Mediocre (45)
-Threat Rating: Poor (130)
-Initiative: Poor (20)
-
-Silcoon : 
-HP: Mediocre (50)
-Threat Rating: Mediocre (140)
-Initiative: Terrible (15)
-
-Beautifly : 
-HP: Fair (60)
-Threat Rating: Good (270)
-Initiative: Fair (65)
-
-Cascoon : 
-HP: Mediocre (50)
-Threat Rating: Mediocre (140)
-Initiative: Terrible (15)
-
-Dustox : 
-HP: Fair (60)
-Threat Rating: Good (260)
-Initiative: Fair (65)
-
-Lotad : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (150)
-Initiative: Poor (30)
-
-Lombre : 
-HP: Fair (60)
-Threat Rating: Fair (230)
-Initiative: Mediocre (50)
-
-Ludicolo : 
-HP: Good (80)
-Threat Rating: Great (330)
-Initiative: Fair (70)
-
-Seedot : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (150)
-Initiative: Poor (30)
-
-Nuzleaf : 
-HP: Fair (70)
-Threat Rating: Fair (210)
-Initiative: Fair (60)
-
-Shiftry : 
-HP: Good (90)
-Threat Rating: Great (310)
-Initiative: Good (80)
-
-Taillow : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (145)
-Initiative: Good (85)
-
-Swellow : 
-HP: Fair (60)
-Threat Rating: Good (245)
-Initiative: Great (125)
-
-Wingull : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (145)
-Initiative: Good (85)
-
-Pelipper : 
-HP: Fair (60)
-Threat Rating: Great (305)
-Initiative: Fair (65)
-
-Ralts : 
-HP: Poor (28)
-Threat Rating: Poor (130)
-Initiative: Mediocre (40)
-
-Kirlia : 
-HP: Poor (38)
-Threat Rating: Fair (190)
-Initiative: Mediocre (50)
-
-Gardevoir : 
-HP: Fair (68)
-Threat Rating: Superb (370)
-Initiative: Good (80)
-
-Gardevoir (Mega Gardevoir) : 
-HP: Fair (68)
-Threat Rating: Good Superhuman (Legendary+1) (450)
-Initiative: Good (100)
-
-Surskit : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (164)
-Initiative: Fair (65)
-
-Masquerain : 
-HP: Fair (70)
-Threat Rating: Good (284)
-Initiative: Fair (60)
-
-Shroomish : 
-HP: Fair (60)
-Threat Rating: Fair (200)
-Initiative: Poor (35)
-
-Breloom : 
-HP: Fair (60)
-Threat Rating: Great (330)
-Initiative: Fair (70)
-
-Slakoth : 
-HP: Fair (60)
-Threat Rating: Fair (190)
-Initiative: Poor (30)
-
-Vigoroth : 
-HP: Good (80)
-Threat Rating: Good (270)
-Initiative: Good (90)
-
-Slaking : 
-HP: Great (150)
-Threat Rating: Fair Superhuman (Legendary) (420)
-Initiative: Good (100)
-
-Nincada : 
-HP: Poor (31)
-Threat Rating: Fair (195)
-Initiative: Mediocre (40)
-
-Ninjask : 
-HP: Fair (61)
-Threat Rating: Fair (235)
-Initiative: Superb (160)
-
-Shedinja : 
-HP: Terrible (1)
-Threat Rating: Fair (195)
-Initiative: Mediocre (40)
-
-Whismur : 
-HP: Fair (64)
-Threat Rating: Mediocre (148)
-Initiative: Poor (28)
-
-Loudred : 
-HP: Good (84)
-Threat Rating: Fair (228)
-Initiative: Mediocre (48)
-
-Exploud : 
-HP: Good (104)
-Threat Rating: Great (318)
-Initiative: Fair (68)
-
-Makuhita : 
-HP: Fair (72)
-Threat Rating: Mediocre (140)
-Initiative: Poor (25)
-
-Hariyama : 
-HP: Great (144)
-Threat Rating: Good (280)
-Initiative: Mediocre (50)
-
-Azurill : 
-HP: Mediocre (50)
-Threat Rating: Poor (120)
-Initiative: Poor (20)
-
-Nosepass : 
-HP: Poor (30)
-Threat Rating: Great (315)
-Initiative: Poor (30)
-
-Skitty : 
-HP: Mediocre (50)
-Threat Rating: Mediocre (160)
-Initiative: Mediocre (50)
-
-Delcatty : 
-HP: Fair (70)
-Threat Rating: Good (240)
-Initiative: Fair (70)
-
-Sableye : 
-HP: Mediocre (50)
-Threat Rating: Good (280)
-Initiative: Mediocre (50)
-
-Sableye (Mega Sableye) : 
-HP: Mediocre (50)
-Threat Rating: Fair Superhuman (Legendary) (410)
-Initiative: Poor (20)
-
-Mawile : 
-HP: Mediocre (50)
-Threat Rating: Good (280)
-Initiative: Mediocre (50)
-
-Mawile (Mega Mawile) : 
-HP: Mediocre (50)
-Threat Rating: Superb (380)
-Initiative: Mediocre (50)
-
-Aron : 
-HP: Mediocre (50)
-Threat Rating: Good (250)
-Initiative: Poor (30)
-
-Lairon : 
-HP: Fair (60)
-Threat Rating: Great (330)
-Initiative: Mediocre (40)
-
-Aggron : 
-HP: Fair (70)
-Threat Rating: Fair Superhuman (Legendary) (410)
-Initiative: Mediocre (50)
-
-Aggron (Mega Aggron) : 
-HP: Fair (70)
-Threat Rating: Great Superhuman (Legendary+2) (510)
-Initiative: Mediocre (50)
-
-Meditite : 
-HP: Poor (30)
-Threat Rating: Fair (190)
-Initiative: Fair (60)
-
-Medicham : 
-HP: Fair (60)
-Threat Rating: Good (270)
-Initiative: Good (80)
-
-Medicham (Mega Medicham) : 
-HP: Fair (60)
-Threat Rating: Superb (350)
-Initiative: Good (100)
-
-Electrike : 
-HP: Mediocre (40)
-Threat Rating: Fair (190)
-Initiative: Fair (65)
-
-Manectric : 
-HP: Fair (70)
-Threat Rating: Great (300)
-Initiative: Good (105)
-
-Manectric (Mega Manectric) : 
-HP: Fair (70)
-Threat Rating: Superb (370)
-Initiative: Great (135)
-
-Plusle : 
-HP: Fair (60)
-Threat Rating: Good (250)
-Initiative: Good (95)
-
-Minun : 
-HP: Fair (60)
-Threat Rating: Good (250)
-Initiative: Good (95)
-
-Volbeat : 
-HP: Fair (65)
-Threat Rating: Good (250)
-Initiative: Good (85)
-
-Illumise : 
-HP: Fair (65)
-Threat Rating: Good (250)
-Initiative: Good (85)
-
-Roselia : 
-HP: Mediocre (50)
-Threat Rating: Good (285)
-Initiative: Fair (65)
-
-Gulpin : 
-HP: Fair (70)
-Threat Rating: Fair (192)
-Initiative: Mediocre (40)
-
-Swalot : 
-HP: Good (100)
-Threat Rating: Great (312)
-Initiative: Mediocre (55)
-
-Carvanha : 
-HP: Mediocre (45)
-Threat Rating: Fair (195)
-Initiative: Fair (65)
-
-Sharpedo : 
-HP: Fair (70)
-Threat Rating: Great (295)
-Initiative: Good (95)
-
-Sharpedo (Mega Sharpedo) : 
-HP: Fair (70)
-Threat Rating: Superb (385)
-Initiative: Good (105)
-
-Wailmer : 
-HP: Great (130)
-Threat Rating: Fair (210)
-Initiative: Fair (60)
-
-Wailord : 
-HP: Great (170)
-Threat Rating: Good (270)
-Initiative: Fair (60)
-
-Numel : 
-HP: Fair (60)
-Threat Rating: Fair (210)
-Initiative: Poor (35)
-
-Camerupt : 
-HP: Fair (70)
-Threat Rating: Superb (350)
-Initiative: Mediocre (40)
-
-Camerupt (Mega Camerupt) : 
-HP: Fair (70)
-Threat Rating: Good Superhuman (Legendary+1) (470)
-Initiative: Poor (20)
-
-Torkoal : 
-HP: Fair (70)
-Threat Rating: Superb (380)
-Initiative: Poor (20)
-
-Spoink : 
-HP: Fair (60)
-Threat Rating: Fair (210)
-Initiative: Fair (60)
-
-Grumpig : 
-HP: Good (80)
-Threat Rating: Great (310)
-Initiative: Good (80)
-
-Spinda : 
-HP: Fair (60)
-Threat Rating: Good (240)
-Initiative: Fair (60)
-
-Trapinch : 
-HP: Mediocre (45)
-Threat Rating: Fair (235)
-Initiative: Terrible (10)
-
-Vibrava : 
-HP: Mediocre (50)
-Threat Rating: Fair (220)
-Initiative: Fair (70)
-
-Flygon : 
-HP: Good (80)
-Threat Rating: Great (340)
-Initiative: Good (100)
-
-Cacnea : 
-HP: Mediocre (50)
-Threat Rating: Good (250)
-Initiative: Poor (35)
-
-Cacturne : 
-HP: Fair (70)
-Threat Rating: Superb (350)
-Initiative: Mediocre (55)
-
-Swablu : 
-HP: Mediocre (45)
-Threat Rating: Fair (215)
-Initiative: Mediocre (50)
-
-Altaria : 
-HP: Fair (75)
-Threat Rating: Great (335)
-Initiative: Good (80)
-
-Altaria (Mega Altaria) : 
-HP: Fair (75)
-Threat Rating: Fair Superhuman (Legendary) (435)
-Initiative: Good (80)
-
-Zangoose : 
-HP: Fair (73)
-Threat Rating: Great (295)
-Initiative: Good (90)
-
-Seviper : 
-HP: Fair (73)
-Threat Rating: Great (320)
-Initiative: Fair (65)
-
-Lunatone : 
-HP: Fair (70)
-Threat Rating: Great (300)
-Initiative: Fair (70)
-
-Solrock : 
-HP: Fair (70)
-Threat Rating: Great (300)
-Initiative: Fair (70)
-
-Barboach : 
-HP: Mediocre (50)
-Threat Rating: Mediocre (178)
-Initiative: Fair (60)
-
-Whiscash : 
-HP: Good (110)
-Threat Rating: Great (298)
-Initiative: Fair (60)
-
-Corphish : 
-HP: Mediocre (43)
-Threat Rating: Fair (230)
-Initiative: Poor (35)
-
-Crawdaunt : 
-HP: Fair (63)
-Threat Rating: Superb (350)
-Initiative: Mediocre (55)
-
-Baltoy : 
-HP: Mediocre (40)
-Threat Rating: Fair (205)
-Initiative: Mediocre (55)
-
-Claydol : 
-HP: Fair (60)
-Threat Rating: Superb (365)
-Initiative: Fair (75)
-
-Lileep : 
-HP: Fair (66)
-Threat Rating: Good (266)
-Initiative: Poor (23)
-
-Cradily : 
-HP: Good (86)
-Threat Rating: Superb (366)
-Initiative: Mediocre (43)
-
-Anorith : 
-HP: Mediocre (45)
-Threat Rating: Fair (235)
-Initiative: Fair (75)
-
-Armaldo : 
-HP: Fair (75)
-Threat Rating: Superb (375)
-Initiative: Mediocre (45)
-
-Feebas : 
-HP: Poor (20)
-Threat Rating: Poor (100)
-Initiative: Good (80)
-
-Milotic : 
-HP: Good (95)
-Threat Rating: Superb (364)
-Initiative: Good (81)
-
-Castform : 
-HP: Fair (70)
-Threat Rating: Good (280)
-Initiative: Fair (70)
-
-Kecleon : 
-HP: Fair (60)
-Threat Rating: Great (340)
-Initiative: Mediocre (40)
-
-Shuppet : 
-HP: Mediocre (44)
-Threat Rating: Fair (206)
-Initiative: Mediocre (45)
-
-Banette : 
-HP: Fair (64)
-Threat Rating: Great (326)
-Initiative: Fair (65)
-
-Banette (Mega Banette) : 
-HP: Fair (64)
-Threat Rating: Fair Superhuman (Legendary) (416)
-Initiative: Fair (75)
-
-Duskull : 
-HP: Poor (20)
-Threat Rating: Good (250)
-Initiative: Poor (25)
-
-Dusclops : 
-HP: Mediocre (40)
-Threat Rating: Superb (390)
-Initiative: Poor (25)
-
-Tropius : 
-HP: Good (99)
-Threat Rating: Great (310)
-Initiative: Mediocre (51)
-
-Chimecho : 
-HP: Fair (65)
-Threat Rating: Great (295)
-Initiative: Fair (65)
-
-Absol : 
-HP: Fair (65)
-Threat Rating: Great (325)
-Initiative: Fair (75)
-
-Absol (Mega Absol) : 
-HP: Fair (65)
-Threat Rating: Superb (385)
-Initiative: Great (115)
-
-Wynaut : 
-HP: Good (95)
-Threat Rating: Mediocre (142)
-Initiative: Poor (23)
-
-Snorunt : 
-HP: Mediocre (50)
-Threat Rating: Fair (200)
-Initiative: Mediocre (50)
-
-Glalie : 
-HP: Good (80)
-Threat Rating: Great (320)
-Initiative: Good (80)
-
-Glalie (Mega Glalie) : 
-HP: Good (80)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Good (100)
-
-Spheal : 
-HP: Fair (70)
-Threat Rating: Fair (195)
-Initiative: Poor (25)
-
-Sealeo : 
-HP: Good (90)
-Threat Rating: Good (275)
-Initiative: Mediocre (45)
-
-Walrein : 
-HP: Good (110)
-Threat Rating: Superb (355)
-Initiative: Fair (65)
-
-Clamperl : 
-HP: Poor (35)
-Threat Rating: Good (278)
-Initiative: Poor (32)
-
-Huntail : 
-HP: Mediocre (55)
-Threat Rating: Superb (378)
-Initiative: Mediocre (52)
-
-Gorebyss : 
-HP: Mediocre (55)
-Threat Rating: Superb (378)
-Initiative: Mediocre (52)
-
-Relicanth : 
-HP: Good (100)
-Threat Rating: Great (330)
-Initiative: Mediocre (55)
-
-Luvdisc : 
-HP: Mediocre (43)
-Threat Rating: Fair (190)
-Initiative: Good (97)
-
-Bagon : 
-HP: Mediocre (45)
-Threat Rating: Fair (205)
-Initiative: Mediocre (50)
-
-Shelgon : 
-HP: Fair (65)
-Threat Rating: Great (305)
-Initiative: Mediocre (50)
-
-Salamence : 
-HP: Good (95)
-Threat Rating: Fair Superhuman (Legendary) (405)
-Initiative: Good (100)
-
-Salamence (Mega Salamence) : 
-HP: Good (95)
-Threat Rating: Good Superhuman (Legendary+1) (485)
-Initiative: Great (120)
-
-Beldum : 
-HP: Mediocre (40)
-Threat Rating: Fair (230)
-Initiative: Poor (30)
-
-Metang : 
-HP: Fair (60)
-Threat Rating: Great (310)
-Initiative: Mediocre (50)
-
-Metagross : 
-HP: Good (80)
-Threat Rating: Good Superhuman (Legendary+1) (450)
-Initiative: Fair (70)
-
-Metagross (Mega Metagross) : 
-HP: Good (80)
-Threat Rating: Great Superhuman (Legendary+2) (510)
-Initiative: Great (110)
-
-Regirock : 
-HP: Good (80)
-Threat Rating: Good Superhuman (Legendary+1) (450)
-Initiative: Mediocre (50)
-
-Regice : 
-HP: Good (80)
-Threat Rating: Good Superhuman (Legendary+1) (450)
-Initiative: Mediocre (50)
-
-Registeel : 
-HP: Good (80)
-Threat Rating: Good Superhuman (Legendary+1) (450)
-Initiative: Mediocre (50)
-
-Latias : 
-HP: Good (80)
-Threat Rating: Fair Superhuman (Legendary) (410)
-Initiative: Great (110)
-
-Latias (Mega Latias) : 
-HP: Good (80)
-Threat Rating: Great Superhuman (Legendary+2) (510)
-Initiative: Great (110)
-
-Latios : 
-HP: Good (80)
-Threat Rating: Fair Superhuman (Legendary) (410)
-Initiative: Great (110)
-
-Latios (Mega Latios) : 
-HP: Good (80)
-Threat Rating: Great Superhuman (Legendary+2) (510)
-Initiative: Great (110)
-
-Kyogre : 
-HP: Good (100)
-Threat Rating: Good Superhuman (Legendary+1) (480)
-Initiative: Good (90)
-
-Kyogre (Primal Kyogre) : 
-HP: Good (100)
-Threat Rating: Superb Superhuman (Legendary+3) (580)
-Initiative: Good (90)
-
-Groudon : 
-HP: Good (100)
-Threat Rating: Good Superhuman (Legendary+1) (480)
-Initiative: Good (90)
-
-Groudon (Primal Groudon) : 
-HP: Good (100)
-Threat Rating: Superb Superhuman (Legendary+3) (580)
-Initiative: Good (90)
-
-Rayquaza : 
-HP: Good (105)
-Threat Rating: Good Superhuman (Legendary+1) (480)
-Initiative: Good (95)
-
-Rayquaza (Mega Rayquaza) : 
-HP: Good (105)
-Threat Rating: Superb Superhuman (Legendary+3) (560)
-Initiative: Great (115)
-
-Jirachi : 
-HP: Good (100)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Good (100)
-
-Deoxys (Normal Forme) : 
-HP: Mediocre (50)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Superb (150)
-
-Deoxys (Attack Forme) : 
-HP: Mediocre (50)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Superb (150)
-
-Deoxys (Defense Forme) : 
-HP: Mediocre (50)
-Threat Rating: Good Superhuman (Legendary+1) (460)
-Initiative: Good (90)
-
-Deoxys (Speed Forme) : 
-HP: Mediocre (50)
-Threat Rating: Superb (370)
-Initiative: Superb (180)
-
-Turtwig : 
-HP: Mediocre (55)
-Threat Rating: Fair (232)
-Initiative: Poor (31)
-
-Grotle : 
-HP: Fair (75)
-Threat Rating: Great (294)
-Initiative: Poor (36)
-
-Torterra : 
-HP: Good (95)
-Threat Rating: Superb (374)
-Initiative: Mediocre (56)
-
-Chimchar : 
-HP: Mediocre (44)
-Threat Rating: Fair (204)
-Initiative: Fair (61)
-
-Monferno : 
-HP: Fair (64)
-Threat Rating: Good (260)
-Initiative: Good (81)
-
-Infernape : 
-HP: Fair (76)
-Threat Rating: Superb (350)
-Initiative: Good (108)
-
-Piplup : 
-HP: Mediocre (53)
-Threat Rating: Fair (221)
-Initiative: Mediocre (40)
-
-Prinplup : 
-HP: Fair (64)
-Threat Rating: Great (291)
-Initiative: Mediocre (50)
-
-Empoleon : 
-HP: Good (84)
-Threat Rating: Superb (386)
-Initiative: Fair (60)
-
-Starly : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (145)
-Initiative: Fair (60)
-
-Staravia : 
-HP: Mediocre (55)
-Threat Rating: Fair (205)
-Initiative: Good (80)
-
-Staraptor : 
-HP: Good (85)
-Threat Rating: Great (300)
-Initiative: Good (100)
-
-Bidoof : 
-HP: Mediocre (59)
-Threat Rating: Mediocre (160)
-Initiative: Poor (31)
-
-Bibarel : 
-HP: Fair (79)
-Threat Rating: Good (260)
-Initiative: Fair (71)
-
-Kricketot : 
-HP: Poor (37)
-Threat Rating: Mediocre (132)
-Initiative: Poor (25)
-
-Kricketune : 
-HP: Fair (77)
-Threat Rating: Good (242)
-Initiative: Fair (65)
-
-Shinx : 
-HP: Mediocre (45)
-Threat Rating: Mediocre (173)
-Initiative: Mediocre (45)
-
-Luxio : 
-HP: Fair (60)
-Threat Rating: Good (243)
-Initiative: Fair (60)
-
-Luxray : 
-HP: Good (80)
-Threat Rating: Superb (373)
-Initiative: Fair (70)
-
-Budew : 
-HP: Mediocre (40)
-Threat Rating: Fair (185)
-Initiative: Mediocre (55)
-
-Roserade : 
-HP: Fair (60)
-Threat Rating: Superb (365)
-Initiative: Good (90)
-
-Cranidos : 
-HP: Fair (67)
-Threat Rating: Fair (225)
-Initiative: Mediocre (58)
-
-Rampardos : 
-HP: Good (97)
-Threat Rating: Great (340)
-Initiative: Mediocre (58)
-
-Shieldon : 
-HP: Poor (30)
-Threat Rating: Good (290)
-Initiative: Poor (30)
-
-Bastiodon : 
-HP: Fair (60)
-Threat Rating: Fair Superhuman (Legendary) (405)
-Initiative: Poor (30)
-
-Burmy : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (148)
-Initiative: Poor (36)
-
-Wormadam (Plant Cloak) : 
-HP: Fair (60)
-Threat Rating: Great (328)
-Initiative: Poor (36)
-
-Wormadam (Sandy Cloak) : 
-HP: Fair (60)
-Threat Rating: Great (328)
-Initiative: Poor (36)
-
-Wormadam (Trash Cloak) : 
-HP: Fair (60)
-Threat Rating: Great (328)
-Initiative: Poor (36)
-
-Mothim : 
-HP: Fair (70)
-Threat Rating: Good (288)
-Initiative: Fair (66)
-
-Combee : 
-HP: Poor (30)
-Threat Rating: Mediocre (144)
-Initiative: Fair (70)
-
-Vespiquen : 
-HP: Fair (70)
-Threat Rating: Superb (364)
-Initiative: Mediocre (40)
-
-Pachirisu : 
-HP: Fair (60)
-Threat Rating: Good (250)
-Initiative: Good (95)
-
-Buizel : 
-HP: Mediocre (55)
-Threat Rating: Fair (190)
-Initiative: Good (85)
-
-Floatzel : 
-HP: Good (85)
-Threat Rating: Great (295)
-Initiative: Great (115)
-
-Cherubi : 
-HP: Mediocre (45)
-Threat Rating: Fair (195)
-Initiative: Poor (35)
-
-Cherrim : 
-HP: Fair (70)
-Threat Rating: Great (295)
-Initiative: Good (85)
-
-Shellos : 
-HP: Fair (76)
-Threat Rating: Fair (215)
-Initiative: Poor (34)
-
-Gastrodon : 
-HP: Good (111)
-Threat Rating: Great (325)
-Initiative: Poor (39)
-
-Ambipom : 
-HP: Fair (75)
-Threat Rating: Great (292)
-Initiative: Great (115)
-
-Drifloon : 
-HP: Good (90)
-Threat Rating: Fair (188)
-Initiative: Fair (70)
-
-Drifblim : 
-HP: Great (150)
-Threat Rating: Good (268)
-Initiative: Good (80)
-
-Buneary : 
-HP: Mediocre (55)
-Threat Rating: Fair (210)
-Initiative: Good (85)
-
-Lopunny : 
-HP: Fair (65)
-Threat Rating: Great (310)
-Initiative: Good (105)
-
-Lopunny (Mega Lopunny) : 
-HP: Fair (65)
-Threat Rating: Superb (380)
-Initiative: Great (135)
-
-Mismagius : 
-HP: Fair (60)
-Threat Rating: Great (330)
-Initiative: Good (105)
-
-Honchkrow : 
-HP: Good (100)
-Threat Rating: Great (334)
-Initiative: Fair (71)
-
-Glameow : 
-HP: Mediocre (49)
-Threat Rating: Mediocre (176)
-Initiative: Good (85)
-
-Purugly : 
-HP: Fair (71)
-Threat Rating: Good (269)
-Initiative: Great (112)
-
-Chingling : 
-HP: Mediocre (45)
-Threat Rating: Fair (195)
-Initiative: Mediocre (45)
-
-Stunky : 
-HP: Fair (63)
-Threat Rating: Fair (192)
-Initiative: Fair (74)
-
-Skuntank : 
-HP: Good (103)
-Threat Rating: Great (292)
-Initiative: Good (84)
-
-Bronzor : 
-HP: Mediocre (57)
-Threat Rating: Fair (220)
-Initiative: Poor (23)
-
-Bronzong : 
-HP: Fair (67)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Poor (33)
-
-Bonsly : 
-HP: Mediocre (50)
-Threat Rating: Fair (230)
-Initiative: Terrible (10)
-
-Mime Jr. : 
-HP: Poor (20)
-Threat Rating: Fair (230)
-Initiative: Fair (60)
-
-Happiny : 
-HP: Good (100)
-Threat Rating: Poor (90)
-Initiative: Poor (30)
-
-Chatot : 
-HP: Fair (76)
-Threat Rating: Good (244)
-Initiative: Good (91)
-
-Spiritomb : 
-HP: Mediocre (50)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Poor (35)
-
-Gible : 
-HP: Mediocre (58)
-Threat Rating: Fair (200)
-Initiative: Mediocre (42)
-
-Gabite : 
-HP: Fair (68)
-Threat Rating: Good (260)
-Initiative: Good (82)
-
-Garchomp : 
-HP: Good (108)
-Threat Rating: Superb (390)
-Initiative: Good (102)
-
-Garchomp (Mega Garchomp) : 
-HP: Good (108)
-Threat Rating: Good Superhuman (Legendary+1) (500)
-Initiative: Good (92)
-
-Munchlax : 
-HP: Great (135)
-Threat Rating: Good (250)
-Initiative: Terrible (5)
-
-Riolu : 
-HP: Mediocre (40)
-Threat Rating: Fair (185)
-Initiative: Fair (60)
-
-Lucario : 
-HP: Fair (70)
-Threat Rating: Superb (365)
-Initiative: Good (90)
-
-Lucario (Mega Lucario) : 
-HP: Fair (70)
-Threat Rating: Fair Superhuman (Legendary) (443)
-Initiative: Great (112)
-
-Hippopotas : 
-HP: Fair (68)
-Threat Rating: Fair (230)
-Initiative: Poor (32)
-
-Hippowdon : 
-HP: Good (108)
-Threat Rating: Superb (370)
-Initiative: Mediocre (47)
-
-Skorupi : 
-HP: Mediocre (40)
-Threat Rating: Fair (225)
-Initiative: Fair (65)
-
-Drapion : 
-HP: Fair (70)
-Threat Rating: Great (335)
-Initiative: Good (95)
-
-Croagunk : 
-HP: Mediocre (48)
-Threat Rating: Fair (202)
-Initiative: Mediocre (50)
-
-Toxicroak : 
-HP: Good (83)
-Threat Rating: Great (322)
-Initiative: Good (85)
-
-Carnivine : 
-HP: Fair (74)
-Threat Rating: Great (334)
-Initiative: Mediocre (46)
-
-Finneon : 
-HP: Mediocre (49)
-Threat Rating: Fair (215)
-Initiative: Fair (66)
-
-Lumineon : 
-HP: Fair (69)
-Threat Rating: Great (300)
-Initiative: Good (91)
-
-Mantyke : 
-HP: Mediocre (45)
-Threat Rating: Good (250)
-Initiative: Mediocre (50)
-
-Snover : 
-HP: Fair (60)
-Threat Rating: Fair (234)
-Initiative: Mediocre (40)
-
-Abomasnow : 
-HP: Good (90)
-Threat Rating: Superb (344)
-Initiative: Fair (60)
-
-Abomasnow (Mega Abomasnow) : 
-HP: Good (90)
-Threat Rating: Good Superhuman (Legendary+1) (474)
-Initiative: Poor (30)
-
-Weavile : 
-HP: Fair (70)
-Threat Rating: Great (315)
-Initiative: Great (125)
-
-Magnezone : 
-HP: Fair (70)
-Threat Rating: Fair Superhuman (Legendary) (405)
-Initiative: Fair (60)
-
-Lickilicky : 
-HP: Good (110)
-Threat Rating: Superb (355)
-Initiative: Mediocre (50)
-
-Rhyperior : 
-HP: Good (115)
-Threat Rating: Superb (380)
-Initiative: Mediocre (40)
-
-Tangrowth : 
-HP: Good (100)
-Threat Rating: Superb (385)
-Initiative: Mediocre (50)
-
-Electivire : 
-HP: Fair (75)
-Threat Rating: Superb (370)
-Initiative: Good (95)
-
-Magmortar : 
-HP: Fair (75)
-Threat Rating: Superb (382)
-Initiative: Good (83)
-
-Togekiss : 
-HP: Good (85)
-Threat Rating: Superb (380)
-Initiative: Good (80)
-
-Yanmega : 
-HP: Good (86)
-Threat Rating: Great (334)
-Initiative: Good (95)
-
-Leafeon : 
-HP: Fair (65)
-Threat Rating: Superb (365)
-Initiative: Good (95)
-
-Glaceon : 
-HP: Fair (65)
-Threat Rating: Superb (395)
-Initiative: Fair (65)
-
-Gliscor : 
-HP: Fair (75)
-Threat Rating: Great (340)
-Initiative: Good (95)
-
-Mamoswine : 
-HP: Good (110)
-Threat Rating: Great (340)
-Initiative: Good (80)
-
-Porygon-Z : 
-HP: Good (85)
-Threat Rating: Superb (360)
-Initiative: Good (90)
-
-Gallade : 
-HP: Fair (68)
-Threat Rating: Superb (370)
-Initiative: Good (80)
-
-Gallade (Mega Gallade) : 
-HP: Fair (68)
-Threat Rating: Fair Superhuman (Legendary) (440)
-Initiative: Great (110)
-
-Probopass : 
-HP: Fair (60)
-Threat Rating: Fair Superhuman (Legendary) (425)
-Initiative: Mediocre (40)
-
-Dusknoir : 
-HP: Mediocre (45)
-Threat Rating: Fair Superhuman (Legendary) (435)
-Initiative: Mediocre (45)
-
-Froslass : 
-HP: Fair (70)
-Threat Rating: Great (300)
-Initiative: Great (110)
-
-Rotom (Normal Rotom) : 
-HP: Mediocre (50)
-Threat Rating: Great (299)
-Initiative: Good (91)
-
-Rotom (Heat Rotom) : 
-HP: Mediocre (50)
-Threat Rating: Superb (384)
-Initiative: Good (86)
-
-Rotom (Wash Rotom) : 
-HP: Mediocre (50)
-Threat Rating: Superb (384)
-Initiative: Good (86)
-
-Rotom (Frost Rotom) : 
-HP: Mediocre (50)
-Threat Rating: Superb (384)
-Initiative: Good (86)
-
-Rotom (Fan Rotom) : 
-HP: Mediocre (50)
-Threat Rating: Superb (384)
-Initiative: Good (86)
-
-Rotom (Mow Rotom) : 
-HP: Mediocre (50)
-Threat Rating: Superb (384)
-Initiative: Good (86)
-
-Uxie : 
-HP: Fair (75)
-Threat Rating: Fair Superhuman (Legendary) (410)
-Initiative: Good (95)
-
-Mesprit : 
-HP: Good (80)
-Threat Rating: Fair Superhuman (Legendary) (420)
-Initiative: Good (80)
-
-Azelf : 
-HP: Fair (75)
-Threat Rating: Superb (390)
-Initiative: Great (115)
-
-Dialga : 
-HP: Good (100)
-Threat Rating: Good Superhuman (Legendary+1) (490)
-Initiative: Good (90)
-
-Palkia : 
-HP: Good (90)
-Threat Rating: Good Superhuman (Legendary+1) (490)
-Initiative: Good (100)
-
-Heatran : 
-HP: Good (91)
-Threat Rating: Fair Superhuman (Legendary) (432)
-Initiative: Fair (77)
-
-Regigigas : 
-HP: Good (110)
-Threat Rating: Good Superhuman (Legendary+1) (460)
-Initiative: Good (100)
-
-Giratina (Altered Forme) : 
-HP: Great (150)
-Threat Rating: Fair Superhuman (Legendary) (440)
-Initiative: Good (90)
-
-Giratina (Origin Forme) : 
-HP: Great (150)
-Threat Rating: Fair Superhuman (Legendary) (440)
-Initiative: Good (90)
-
-Cresselia : 
-HP: Great (120)
-Threat Rating: Superb (395)
-Initiative: Good (85)
-
-Phione : 
-HP: Good (80)
-Threat Rating: Great (320)
-Initiative: Good (80)
-
-Manaphy : 
-HP: Good (100)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Good (100)
-
-Darkrai : 
-HP: Fair (70)
-Threat Rating: Fair Superhuman (Legendary) (405)
-Initiative: Great (125)
-
-Shaymin (Land Forme) : 
-HP: Good (100)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Good (100)
-
-Shaymin (Sky Forme) : 
-HP: Good (100)
-Threat Rating: Superb (373)
-Initiative: Great (127)
-
-Arceus : 
-HP: Great (120)
-Threat Rating: Good Superhuman (Legendary+1) (480)
-Initiative: Great (120)
-
-Victini : 
-HP: Good (100)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Good (100)
-
-Snivy : 
-HP: Mediocre (45)
-Threat Rating: Fair (200)
-Initiative: Fair (63)
-
-Servine : 
-HP: Fair (60)
-Threat Rating: Good (270)
-Initiative: Good (83)
-
-Serperior : 
-HP: Fair (75)
-Threat Rating: Great (340)
-Initiative: Great (113)
-
-Tepig : 
-HP: Fair (65)
-Threat Rating: Fair (198)
-Initiative: Mediocre (45)
-
-Pignite : 
-HP: Good (90)
-Threat Rating: Good (273)
-Initiative: Mediocre (55)
-
-Emboar : 
-HP: Good (110)
-Threat Rating: Superb (353)
-Initiative: Fair (65)
-
-Oshawott : 
-HP: Mediocre (55)
-Threat Rating: Fair (208)
-Initiative: Mediocre (45)
-
-Dewott : 
-HP: Fair (75)
-Threat Rating: Good (278)
-Initiative: Fair (60)
-
-Samurott : 
-HP: Good (95)
-Threat Rating: Superb (363)
-Initiative: Fair (70)
-
-Patrat : 
-HP: Mediocre (45)
-Threat Rating: Mediocre (168)
-Initiative: Mediocre (42)
-
-Watchog : 
-HP: Fair (60)
-Threat Rating: Good (283)
-Initiative: Fair (77)
-
-Lillipup : 
-HP: Mediocre (45)
-Threat Rating: Mediocre (175)
-Initiative: Mediocre (55)
-
-Herdier : 
-HP: Fair (65)
-Threat Rating: Good (245)
-Initiative: Fair (60)
-
-Stoutland : 
-HP: Good (85)
-Threat Rating: Great (335)
-Initiative: Good (80)
-
-Purrloin : 
-HP: Mediocre (41)
-Threat Rating: Mediocre (174)
-Initiative: Fair (66)
-
-Liepard : 
-HP: Fair (64)
-Threat Rating: Good (276)
-Initiative: Good (106)
-
-Pansage : 
-HP: Mediocre (50)
-Threat Rating: Fair (202)
-Initiative: Fair (64)
-
-Simisage : 
-HP: Fair (75)
-Threat Rating: Great (322)
-Initiative: Good (101)
-
-Pansear : 
-HP: Mediocre (50)
-Threat Rating: Fair (202)
-Initiative: Fair (64)
-
-Simisear : 
-HP: Fair (75)
-Threat Rating: Great (322)
-Initiative: Good (101)
-
-Panpour : 
-HP: Mediocre (50)
-Threat Rating: Fair (202)
-Initiative: Fair (64)
-
-Simipour : 
-HP: Fair (75)
-Threat Rating: Great (322)
-Initiative: Good (101)
-
-Munna : 
-HP: Fair (76)
-Threat Rating: Fair (192)
-Initiative: Poor (24)
-
-Musharna : 
-HP: Good (116)
-Threat Rating: Great (342)
-Initiative: Poor (29)
-
-Pidove : 
-HP: Mediocre (50)
-Threat Rating: Mediocre (171)
-Initiative: Mediocre (43)
-
-Tranquill : 
-HP: Fair (62)
-Threat Rating: Fair (231)
-Initiative: Fair (65)
-
-Unfezant : 
-HP: Good (80)
-Threat Rating: Great (315)
-Initiative: Good (93)
-
-Blitzle : 
-HP: Mediocre (45)
-Threat Rating: Mediocre (174)
-Initiative: Fair (76)
-
-Zebstrika : 
-HP: Fair (75)
-Threat Rating: Great (306)
-Initiative: Great (116)
-
-Roggenrola : 
-HP: Mediocre (55)
-Threat Rating: Fair (210)
-Initiative: Terrible (15)
-
-Boldore : 
-HP: Fair (70)
-Threat Rating: Great (300)
-Initiative: Poor (20)
-
-Gigalith : 
-HP: Good (85)
-Threat Rating: Fair Superhuman (Legendary) (405)
-Initiative: Poor (25)
-
-Woobat : 
-HP: Mediocre (55)
-Threat Rating: Fair (186)
-Initiative: Fair (72)
-
-Swoobat : 
-HP: Fair (67)
-Threat Rating: Good (244)
-Initiative: Great (114)
-
-Drilbur : 
-HP: Fair (60)
-Threat Rating: Fair (200)
-Initiative: Fair (68)
-
-Excadrill : 
-HP: Good (110)
-Threat Rating: Great (310)
-Initiative: Good (88)
-
-Audino : 
-HP: Good (103)
-Threat Rating: Great (292)
-Initiative: Mediocre (50)
-
-Audino (Mega Audino) : 
-HP: Good (103)
-Threat Rating: Superb (392)
-Initiative: Mediocre (50)
-
-Timburr : 
-HP: Fair (75)
-Threat Rating: Fair (195)
-Initiative: Poor (35)
-
-Gurdurr : 
-HP: Good (85)
-Threat Rating: Good (280)
-Initiative: Mediocre (40)
-
-Conkeldurr : 
-HP: Good (105)
-Threat Rating: Superb (355)
-Initiative: Mediocre (45)
-
-Tympole : 
-HP: Mediocre (50)
-Threat Rating: Mediocre (180)
-Initiative: Fair (64)
-
-Palpitoad : 
-HP: Fair (75)
-Threat Rating: Good (240)
-Initiative: Fair (69)
-
-Seismitoad : 
-HP: Good (105)
-Threat Rating: Great (330)
-Initiative: Fair (74)
-
-Throh : 
-HP: Great (120)
-Threat Rating: Great (300)
-Initiative: Mediocre (45)
-
-Sawk : 
-HP: Fair (75)
-Threat Rating: Great (305)
-Initiative: Good (85)
-
-Sewaddle : 
-HP: Mediocre (45)
-Threat Rating: Fair (223)
-Initiative: Mediocre (42)
-
-Swadloon : 
-HP: Mediocre (55)
-Threat Rating: Good (283)
-Initiative: Mediocre (42)
-
-Leavanny : 
-HP: Fair (75)
-Threat Rating: Great (333)
-Initiative: Good (92)
-
-Venipede : 
-HP: Poor (30)
-Threat Rating: Mediocre (173)
-Initiative: Mediocre (57)
-
-Whirlipede : 
-HP: Mediocre (40)
-Threat Rating: Good (273)
-Initiative: Mediocre (47)
-
-Scolipede : 
-HP: Fair (60)
-Threat Rating: Great (313)
-Initiative: Great (112)
-
-Cottonee : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (174)
-Initiative: Fair (66)
-
-Whimsicott : 
-HP: Fair (60)
-Threat Rating: Great (304)
-Initiative: Great (116)
-
-Petilil : 
-HP: Mediocre (45)
-Threat Rating: Fair (205)
-Initiative: Poor (30)
-
-Lilligant : 
-HP: Fair (70)
-Threat Rating: Great (320)
-Initiative: Good (90)
-
-Basculin : 
-HP: Fair (70)
-Threat Rating: Great (292)
-Initiative: Good (98)
-
-Sandile : 
-HP: Mediocre (50)
-Threat Rating: Mediocre (177)
-Initiative: Fair (65)
-
-Krokorok : 
-HP: Fair (60)
-Threat Rating: Fair (217)
-Initiative: Fair (74)
-
-Krookodile : 
-HP: Good (95)
-Threat Rating: Great (332)
-Initiative: Good (92)
-
-Darumaka : 
-HP: Fair (70)
-Threat Rating: Fair (195)
-Initiative: Mediocre (50)
-
-Darmanitan (Standard Mode) : 
-HP: Good (105)
-Threat Rating: Good (280)
-Initiative: Good (95)
-
-Darmanitan (Zen Mode) : 
-HP: Good (105)
-Threat Rating: Superb (380)
-Initiative: Mediocre (55)
-
-Maractus : 
-HP: Fair (75)
-Threat Rating: Great (326)
-Initiative: Fair (60)
-
-Dwebble : 
-HP: Mediocre (50)
-Threat Rating: Fair (220)
-Initiative: Mediocre (55)
-
-Crustle : 
-HP: Fair (70)
-Threat Rating: Superb (360)
-Initiative: Mediocre (45)
-
-Scraggy : 
-HP: Mediocre (50)
-Threat Rating: Good (250)
-Initiative: Mediocre (48)
-
-Scrafty : 
-HP: Fair (65)
-Threat Rating: Superb (365)
-Initiative: Mediocre (58)
-
-Sigilyph : 
-HP: Fair (72)
-Threat Rating: Great (321)
-Initiative: Good (97)
-
-Yamask : 
-HP: Poor (38)
-Threat Rating: Fair (235)
-Initiative: Poor (30)
-
-Cofagrigus : 
-HP: Mediocre (58)
-Threat Rating: Superb (395)
-Initiative: Poor (30)
-
-Tirtouga : 
-HP: Mediocre (54)
-Threat Rating: Good (279)
-Initiative: Poor (22)
-
-Carracosta : 
-HP: Fair (74)
-Threat Rating: Superb (389)
-Initiative: Poor (32)
-
-Archen : 
-HP: Mediocre (55)
-Threat Rating: Good (276)
-Initiative: Fair (70)
-
-Archeops : 
-HP: Fair (75)
-Threat Rating: Superb (382)
-Initiative: Great (110)
-
-Trubbish : 
-HP: Mediocre (50)
-Threat Rating: Fair (214)
-Initiative: Fair (65)
-
-Garbodor : 
-HP: Good (80)
-Threat Rating: Great (319)
-Initiative: Fair (75)
-
-Zorua : 
-HP: Mediocre (40)
-Threat Rating: Fair (225)
-Initiative: Fair (65)
-
-Zoroark : 
-HP: Fair (60)
-Threat Rating: Superb (345)
-Initiative: Good (105)
-
-Minccino : 
-HP: Mediocre (55)
-Threat Rating: Mediocre (170)
-Initiative: Fair (75)
-
-Cinccino : 
-HP: Fair (75)
-Threat Rating: Good (280)
-Initiative: Great (115)
-
-Gothita : 
-HP: Mediocre (45)
-Threat Rating: Fair (200)
-Initiative: Mediocre (45)
-
-Gothorita : 
-HP: Fair (60)
-Threat Rating: Good (275)
-Initiative: Mediocre (55)
-
-Gothitelle : 
-HP: Fair (70)
-Threat Rating: Superb (355)
-Initiative: Fair (65)
-
-Solosis : 
-HP: Mediocre (45)
-Threat Rating: Fair (225)
-Initiative: Poor (20)
-
-Duosion : 
-HP: Fair (65)
-Threat Rating: Good (275)
-Initiative: Poor (30)
-
-Reuniclus : 
-HP: Good (110)
-Threat Rating: Superb (350)
-Initiative: Poor (30)
-
-Ducklett : 
-HP: Fair (62)
-Threat Rating: Fair (188)
-Initiative: Mediocre (55)
-
-Swanna : 
-HP: Fair (75)
-Threat Rating: Great (300)
-Initiative: Good (98)
-
-Vanillite : 
-HP: Poor (36)
-Threat Rating: Fair (225)
-Initiative: Mediocre (44)
-
-Vanillish : 
-HP: Mediocre (51)
-Threat Rating: Good (285)
-Initiative: Mediocre (59)
-
-Vanilluxe : 
-HP: Fair (71)
-Threat Rating: Superb (385)
-Initiative: Fair (79)
-
-Deerling : 
-HP: Fair (60)
-Threat Rating: Fair (200)
-Initiative: Fair (75)
-
-Sawsbuck : 
-HP: Good (80)
-Threat Rating: Great (300)
-Initiative: Good (95)
-
-Emolga : 
-HP: Mediocre (55)
-Threat Rating: Good (270)
-Initiative: Good (103)
-
-Karrablast : 
-HP: Mediocre (50)
-Threat Rating: Fair (205)
-Initiative: Fair (60)
-
-Escavalier : 
-HP: Fair (70)
-Threat Rating: Fair Superhuman (Legendary) (405)
-Initiative: Poor (20)
-
-Foongus : 
-HP: Fair (69)
-Threat Rating: Fair (210)
-Initiative: Terrible (15)
-
-Amoonguss : 
-HP: Good (114)
-Threat Rating: Great (320)
-Initiative: Poor (30)
-
-Frillish : 
-HP: Mediocre (55)
-Threat Rating: Good (240)
-Initiative: Mediocre (40)
-
-Jellicent : 
-HP: Good (100)
-Threat Rating: Great (320)
-Initiative: Fair (60)
-
-Alomomola : 
-HP: Great (165)
-Threat Rating: Good (240)
-Initiative: Fair (65)
-
-Joltik : 
-HP: Mediocre (50)
-Threat Rating: Fair (204)
-Initiative: Fair (65)
-
-Galvantula : 
-HP: Fair (70)
-Threat Rating: Great (294)
-Initiative: Good (108)
-
-Ferroseed : 
-HP: Mediocre (44)
-Threat Rating: Good (251)
-Initiative: Terrible (10)
-
-Ferrothorn : 
-HP: Fair (74)
-Threat Rating: Superb (395)
-Initiative: Poor (20)
-
-Klink : 
-HP: Mediocre (40)
-Threat Rating: Fair (230)
-Initiative: Poor (30)
-
-Klang : 
-HP: Fair (60)
-Threat Rating: Great (330)
-Initiative: Mediocre (50)
-
-Klinklang : 
-HP: Fair (60)
-Threat Rating: Superb (370)
-Initiative: Good (90)
-
-Tynamo : 
-HP: Poor (35)
-Threat Rating: Mediocre (180)
-Initiative: Fair (60)
-
-Eelektrik : 
-HP: Fair (65)
-Threat Rating: Great (300)
-Initiative: Mediocre (40)
-
-Eelektross : 
-HP: Good (85)
-Threat Rating: Superb (380)
-Initiative: Mediocre (50)
-
-Elgyem : 
-HP: Mediocre (55)
-Threat Rating: Good (250)
-Initiative: Poor (30)
-
-Beheeyem : 
-HP: Fair (75)
-Threat Rating: Superb (370)
-Initiative: Mediocre (40)
-
-Litwick : 
-HP: Mediocre (50)
-Threat Rating: Fair (205)
-Initiative: Poor (20)
-
-Lampent : 
-HP: Fair (60)
-Threat Rating: Good (255)
-Initiative: Mediocre (55)
-
-Chandelure : 
-HP: Fair (60)
-Threat Rating: Superb (380)
-Initiative: Good (80)
-
-Axew : 
-HP: Mediocre (46)
-Threat Rating: Fair (217)
-Initiative: Mediocre (57)
-
-Fraxure : 
-HP: Fair (66)
-Threat Rating: Good (277)
-Initiative: Fair (67)
-
-Haxorus : 
-HP: Fair (76)
-Threat Rating: Superb (367)
-Initiative: Good (97)
-
-Cubchoo : 
-HP: Mediocre (55)
-Threat Rating: Fair (210)
-Initiative: Mediocre (40)
-
-Beartic : 
-HP: Good (95)
-Threat Rating: Great (340)
-Initiative: Mediocre (50)
-
-Cryogonal : 
-HP: Fair (70)
-Threat Rating: Great (310)
-Initiative: Good (105)
-
-Shelmet : 
-HP: Mediocre (50)
-Threat Rating: Fair (230)
-Initiative: Poor (25)
-
-Accelgor : 
-HP: Good (80)
-Threat Rating: Good (270)
-Initiative: Great (145)
-
-Stunfisk : 
-HP: Good (109)
-Threat Rating: Great (330)
-Initiative: Poor (32)
-
-Mienfoo : 
-HP: Mediocre (45)
-Threat Rating: Good (240)
-Initiative: Fair (65)
-
-Mienshao : 
-HP: Fair (65)
-Threat Rating: Great (340)
-Initiative: Good (105)
-
-Druddigon : 
-HP: Fair (77)
-Threat Rating: Superb (360)
-Initiative: Mediocre (48)
-
-Golett : 
-HP: Mediocre (59)
-Threat Rating: Fair (209)
-Initiative: Poor (35)
-
-Golurk : 
-HP: Good (89)
-Threat Rating: Great (339)
-Initiative: Mediocre (55)
-
-Pawniard : 
-HP: Mediocre (45)
-Threat Rating: Fair (235)
-Initiative: Fair (60)
-
-Bisharp : 
-HP: Fair (65)
-Threat Rating: Superb (355)
-Initiative: Fair (70)
-
-Bouffalant : 
-HP: Good (95)
-Threat Rating: Great (340)
-Initiative: Mediocre (55)
-
-Rufflet : 
-HP: Fair (70)
-Threat Rating: Fair (220)
-Initiative: Fair (60)
-
-Braviary : 
-HP: Good (100)
-Threat Rating: Great (330)
-Initiative: Good (80)
-
-Vullaby : 
-HP: Fair (70)
-Threat Rating: Good (240)
-Initiative: Fair (60)
-
-Mandibuzz : 
-HP: Good (110)
-Threat Rating: Great (320)
-Initiative: Good (80)
-
-Heatmor : 
-HP: Good (85)
-Threat Rating: Great (334)
-Initiative: Fair (65)
-
-Durant : 
-HP: Mediocre (58)
-Threat Rating: Great (317)
-Initiative: Good (109)
-
-Deino : 
-HP: Mediocre (52)
-Threat Rating: Fair (210)
-Initiative: Poor (38)
-
-Zweilous : 
-HP: Fair (72)
-Threat Rating: Good (290)
-Initiative: Mediocre (58)
-
-Hydreigon : 
-HP: Good (92)
-Threat Rating: Fair Superhuman (Legendary) (410)
-Initiative: Good (98)
-
-Larvesta : 
-HP: Mediocre (55)
-Threat Rating: Good (245)
-Initiative: Fair (60)
-
-Volcarona : 
-HP: Good (85)
-Threat Rating: Superb (365)
-Initiative: Good (100)
-
-Cobalion : 
-HP: Good (91)
-Threat Rating: Superb (381)
-Initiative: Good (108)
-
-Terrakion : 
-HP: Good (91)
-Threat Rating: Superb (381)
-Initiative: Good (108)
-
-Virizion : 
-HP: Good (91)
-Threat Rating: Superb (381)
-Initiative: Good (108)
-
-Tornadus (Incarnate Forme) : 
-HP: Fair (79)
-Threat Rating: Superb (390)
-Initiative: Great (111)
-
-Tornadus (Therian Forme) : 
-HP: Fair (79)
-Threat Rating: Superb (380)
-Initiative: Great (121)
-
-Thundurus (Incarnate Forme) : 
-HP: Fair (79)
-Threat Rating: Superb (390)
-Initiative: Great (111)
-
-Thundurus (Therian Forme) : 
-HP: Fair (79)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Good (101)
-
-Reshiram : 
-HP: Good (100)
-Threat Rating: Good Superhuman (Legendary+1) (490)
-Initiative: Good (90)
-
-Zekrom : 
-HP: Good (100)
-Threat Rating: Good Superhuman (Legendary+1) (490)
-Initiative: Good (90)
-
-Landorus (Incarnate Forme) : 
-HP: Good (89)
-Threat Rating: Fair Superhuman (Legendary) (410)
-Initiative: Good (101)
-
-Landorus (Therian Forme) : 
-HP: Good (89)
-Threat Rating: Fair Superhuman (Legendary) (420)
-Initiative: Good (91)
-
-Kyurem (Normal Kyurem) : 
-HP: Great (125)
-Threat Rating: Fair Superhuman (Legendary) (440)
-Initiative: Good (95)
-
-Kyurem (Black Kyurem) : 
-HP: Great (125)
-Threat Rating: Good Superhuman (Legendary+1) (480)
-Initiative: Good (95)
-
-Kyurem (White Kyurem) : 
-HP: Great (125)
-Threat Rating: Good Superhuman (Legendary+1) (480)
-Initiative: Good (95)
-
-Keldeo : 
-HP: Good (91)
-Threat Rating: Superb (381)
-Initiative: Good (108)
-
-Meloetta (Aria Forme) : 
-HP: Good (100)
-Threat Rating: Fair Superhuman (Legendary) (410)
-Initiative: Good (90)
-
-Meloetta (Pirouette Forme) : 
-HP: Good (100)
-Threat Rating: Superb (372)
-Initiative: Great (128)
-
-Genesect : 
-HP: Fair (71)
-Threat Rating: Fair Superhuman (Legendary) (430)
-Initiative: Good (99)
-
-Chespin : 
-HP: Mediocre (56)
-Threat Rating: Fair (219)
-Initiative: Poor (38)
-
-Quilladin : 
-HP: Fair (61)
-Threat Rating: Good (287)
-Initiative: Mediocre (57)
-
-Chesnaught : 
-HP: Good (88)
-Threat Rating: Superb (378)
-Initiative: Fair (64)
-
-Fennekin : 
-HP: Mediocre (40)
-Threat Rating: Fair (207)
-Initiative: Fair (60)
-
-Braixen : 
-HP: Mediocre (59)
-Threat Rating: Good (277)
-Initiative: Fair (73)
-
-Delphox : 
-HP: Fair (75)
-Threat Rating: Superb (355)
-Initiative: Good (104)
-
-Froakie : 
-HP: Mediocre (41)
-Threat Rating: Fair (202)
-Initiative: Fair (71)
-
-Frogadier : 
-HP: Mediocre (54)
-Threat Rating: Good (254)
-Initiative: Good (97)
-
-Greninja : 
-HP: Fair (72)
-Threat Rating: Great (336)
-Initiative: Great (122)
-
-Bunnelby : 
-HP: Poor (38)
-Threat Rating: Mediocre (142)
-Initiative: Mediocre (57)
-
-Diggersby : 
-HP: Good (85)
-Threat Rating: Good (260)
-Initiative: Fair (78)
-
-Fletchling : 
-HP: Mediocre (45)
-Threat Rating: Mediocre (171)
-Initiative: Fair (62)
-
-Fletchinder : 
-HP: Fair (62)
-Threat Rating: Fair (236)
-Initiative: Good (84)
-
-Talonflame : 
-HP: Fair (78)
-Threat Rating: Great (295)
-Initiative: Great (126)
-
-Scatterbug : 
-HP: Poor (38)
-Threat Rating: Poor (127)
-Initiative: Poor (35)
-
-Spewpa : 
-HP: Mediocre (45)
-Threat Rating: Mediocre (139)
-Initiative: Poor (29)
-
-Vivillon : 
-HP: Good (80)
-Threat Rating: Good (242)
-Initiative: Good (89)
-
-Litleo : 
-HP: Fair (62)
-Threat Rating: Fair (235)
-Initiative: Fair (72)
-
-Pyroar : 
-HP: Good (86)
-Threat Rating: Great (315)
-Initiative: Good (106)
-
-Flabébé : 
-HP: Mediocre (44)
-Threat Rating: Fair (217)
-Initiative: Mediocre (42)
-
-Floette : 
-HP: Mediocre (54)
-Threat Rating: Good (265)
-Initiative: Mediocre (52)
-
-Florges : 
-HP: Fair (78)
-Threat Rating: Fair Superhuman (Legendary) (399)
-Initiative: Fair (75)
-
-Skiddo : 
-HP: Fair (66)
-Threat Rating: Fair (232)
-Initiative: Mediocre (52)
-
-Gogoat : 
-HP: Great (123)
-Threat Rating: Great (340)
-Initiative: Fair (68)
-
-Pancham : 
-HP: Fair (67)
-Threat Rating: Good (238)
-Initiative: Mediocre (43)
-
-Pangoro : 
-HP: Good (95)
-Threat Rating: Great (342)
-Initiative: Mediocre (58)
-
-Furfrou : 
-HP: Fair (75)
-Threat Rating: Great (295)
-Initiative: Good (102)
-
-Espurr : 
-HP: Fair (62)
-Threat Rating: Fair (225)
-Initiative: Fair (68)
-
-Meowstic : 
-HP: Fair (74)
-Threat Rating: Good (288)
-Initiative: Good (104)
-
-Honedge : 
-HP: Mediocre (45)
-Threat Rating: Good (252)
-Initiative: Poor (28)
-
-Doublade : 
-HP: Mediocre (59)
-Threat Rating: Superb (354)
-Initiative: Poor (35)
-
-Aegislash (Shield Forme) : 
-HP: Fair (60)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Fair (60)
-
-Aegislash (Blade Forme) : 
-HP: Fair (60)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Fair (60)
-
-Spritzee : 
-HP: Fair (78)
-Threat Rating: Good (240)
-Initiative: Poor (23)
-
-Aromatisse : 
-HP: Good (101)
-Threat Rating: Great (332)
-Initiative: Poor (29)
-
-Swirlix : 
-HP: Fair (62)
-Threat Rating: Fair (230)
-Initiative: Mediocre (49)
-
-Slurpuff : 
-HP: Good (82)
-Threat Rating: Great (326)
-Initiative: Fair (72)
-
-Inkay : 
-HP: Mediocre (53)
-Threat Rating: Fair (190)
-Initiative: Mediocre (45)
-
-Malamar : 
-HP: Good (86)
-Threat Rating: Great (323)
-Initiative: Fair (73)
-
-Binacle : 
-HP: Mediocre (42)
-Threat Rating: Fair (214)
-Initiative: Mediocre (50)
-
-Barbaracle : 
-HP: Fair (72)
-Threat Rating: Superb (360)
-Initiative: Fair (68)
-
-Skrelp : 
-HP: Mediocre (50)
-Threat Rating: Good (240)
-Initiative: Poor (30)
-
-Dragalge : 
-HP: Fair (65)
-Threat Rating: Superb (385)
-Initiative: Mediocre (44)
-
-Clauncher : 
-HP: Mediocre (50)
-Threat Rating: Fair (236)
-Initiative: Mediocre (44)
-
-Clawitzer : 
-HP: Fair (71)
-Threat Rating: Superb (370)
-Initiative: Mediocre (59)
-
-Helioptile : 
-HP: Mediocre (44)
-Threat Rating: Mediocre (175)
-Initiative: Fair (70)
-
-Heliolisk : 
-HP: Fair (62)
-Threat Rating: Great (310)
-Initiative: Good (109)
-
-Tyrunt : 
-HP: Mediocre (58)
-Threat Rating: Good (256)
-Initiative: Mediocre (48)
-
-Tyrantrum : 
-HP: Good (82)
-Threat Rating: Superb (368)
-Initiative: Fair (71)
-
-Amaura : 
-HP: Fair (77)
-Threat Rating: Good (239)
-Initiative: Mediocre (46)
-
-Aurorus : 
-HP: Great (123)
-Threat Rating: Great (340)
-Initiative: Mediocre (58)
-
-Sylveon : 
-HP: Good (95)
-Threat Rating: Superb (370)
-Initiative: Fair (60)
-
-Hawlucha : 
-HP: Fair (78)
-Threat Rating: Great (304)
-Initiative: Great (118)
-
-Dedenne : 
-HP: Fair (67)
-Threat Rating: Good (263)
-Initiative: Good (101)
-
-Carbink : 
-HP: Mediocre (50)
-Threat Rating: Fair Superhuman (Legendary) (400)
-Initiative: Mediocre (50)
-
-Goomy : 
-HP: Mediocre (45)
-Threat Rating: Fair (215)
-Initiative: Mediocre (40)
-
-Sliggoo : 
-HP: Fair (68)
-Threat Rating: Great (324)
-Initiative: Fair (60)
-
-Goodra : 
-HP: Good (90)
-Threat Rating: Fair Superhuman (Legendary) (430)
-Initiative: Good (80)
-
-Klefki : 
-HP: Mediocre (57)
-Threat Rating: Great (338)
-Initiative: Fair (75)
-
-Phantump : 
-HP: Mediocre (43)
-Threat Rating: Fair (228)
-Initiative: Poor (38)
-
-Trevenant : 
-HP: Good (85)
-Threat Rating: Great (333)
-Initiative: Mediocre (56)
-
-Pumpkaboo (Small Size) : 
-HP: Mediocre (44)
-Threat Rating: Fair (235)
-Initiative: Mediocre (56)
-
-Pumpkaboo (Average Size) : 
-HP: Mediocre (49)
-Threat Rating: Fair (235)
-Initiative: Mediocre (51)
-
-Pumpkaboo (Large Size) : 
-HP: Mediocre (54)
-Threat Rating: Fair (235)
-Initiative: Mediocre (46)
-
-Pumpkaboo (Super Size) : 
-HP: Mediocre (59)
-Threat Rating: Fair (235)
-Initiative: Mediocre (41)
-
-Gourgeist (Small Size) : 
-HP: Mediocre (55)
-Threat Rating: Great (340)
-Initiative: Good (99)
-
-Gourgeist (Average Size) : 
-HP: Fair (65)
-Threat Rating: Superb (345)
-Initiative: Good (84)
-
-Gourgeist (Large Size) : 
-HP: Fair (75)
-Threat Rating: Superb (350)
-Initiative: Fair (69)
-
-Gourgeist (Super Size) : 
-HP: Good (85)
-Threat Rating: Superb (355)
-Initiative: Mediocre (54)
-
-Bergmite : 
-HP: Mediocre (55)
-Threat Rating: Fair (221)
-Initiative: Poor (28)
-
-Avalugg : 
-HP: Good (95)
-Threat Rating: Superb (391)
-Initiative: Poor (28)
-
-Noibat : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (150)
-Initiative: Mediocre (55)
-
-Noivern : 
-HP: Good (85)
-Threat Rating: Great (327)
-Initiative: Great (123)
-
-Xerneas : 
-HP: Great (126)
-Threat Rating: Good Superhuman (Legendary+1) (455)
-Initiative: Good (99)
-
-Yveltal : 
-HP: Great (126)
-Threat Rating: Good Superhuman (Legendary+1) (455)
-Initiative: Good (99)
-
-Zygarde : 
-HP: Good (108)
-Threat Rating: Fair Superhuman (Legendary) (397)
-Initiative: Good (95)
-
-Diancie : 
-HP: Mediocre (50)
-Threat Rating: Good Superhuman (Legendary+1) (500)
-Initiative: Mediocre (50)
-
-Diancie (Mega Diancie) : 
-HP: Mediocre (50)
-Threat Rating: Great Superhuman (Legendary+2) (540)
-Initiative: Great (110)
-
-Hoopa (Hoopa Confined) : 
-HP: Good (80)
-Threat Rating: Good Superhuman (Legendary+1) (450)
-Initiative: Fair (70)
-
-Hoopa (Hoopa Unbound) : 
-HP: Good (80)
-Threat Rating: Great Superhuman (Legendary+2) (520)
-Initiative: Good (80)
-
-Volcanion : 
-HP: Good (80)
-Threat Rating: Good Superhuman (Legendary+1) (450)
-Initiative: Fair (70)
-
-Rowlet : 
-HP: Fair (68)
-Threat Rating: Fair (210)
-Initiative: Mediocre (42)
-
-Dartrix : 
-HP: Fair (78)
-Threat Rating: Good (290)
-Initiative: Mediocre (52)
-
-Decidueye : 
-HP: Fair (78)
-Threat Rating: Superb (382)
-Initiative: Fair (70)
-
-Litten : 
-HP: Mediocre (45)
-Threat Rating: Fair (205)
-Initiative: Fair (70)
-
-Torracat : 
-HP: Fair (65)
-Threat Rating: Good (265)
-Initiative: Good (90)
-
-Incineroar : 
-HP: Good (95)
-Threat Rating: Superb (375)
-Initiative: Fair (60)
-
-Popplio : 
-HP: Mediocre (50)
-Threat Rating: Fair (230)
-Initiative: Mediocre (40)
-
-Brionne : 
-HP: Fair (60)
-Threat Rating: Great (310)
-Initiative: Mediocre (50)
-
-Primarina : 
-HP: Good (80)
-Threat Rating: Superb (390)
-Initiative: Fair (60)
-
-Pikipek : 
-HP: Poor (35)
-Threat Rating: Mediocre (165)
-Initiative: Fair (65)
-
-Trumbeak : 
-HP: Mediocre (55)
-Threat Rating: Fair (225)
-Initiative: Fair (75)
-
-Toucannon : 
-HP: Good (80)
-Threat Rating: Superb (345)
-Initiative: Fair (60)
-
-Yungoos : 
-HP: Mediocre (48)
-Threat Rating: Mediocre (160)
-Initiative: Mediocre (45)
-
-Gumshoos : 
-HP: Good (88)
-Threat Rating: Good (285)
-Initiative: Mediocre (45)
-
-Grubbin : 
-HP: Mediocre (47)
-Threat Rating: Fair (207)
-Initiative: Mediocre (46)
-
-Charjabug : 
-HP: Mediocre (57)
-Threat Rating: Great (307)
-Initiative: Poor (36)
-
-Vikavolt : 
-HP: Fair (77)
-Threat Rating: Superb (380)
-Initiative: Mediocre (43)
-
-Crabrawler : 
-HP: Mediocre (47)
-Threat Rating: Fair (228)
-Initiative: Fair (63)
-
-Crabominable : 
-HP: Good (97)
-Threat Rating: Great (338)
-Initiative: Mediocre (43)
-
-Oricorio : 
-HP: Fair (75)
-Threat Rating: Great (308)
-Initiative: Good (93)
-
-Cutiefly : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (180)
-Initiative: Good (84)
-
-Ribombee : 
-HP: Fair (60)
-Threat Rating: Good (280)
-Initiative: Great (124)
-
-Rockruff : 
-HP: Mediocre (45)
-Threat Rating: Mediocre (175)
-Initiative: Fair (60)
-
-Lycanroc (Midday Form) : 
-HP: Fair (75)
-Threat Rating: Great (300)
-Initiative: Great (112)
-
-Lycanroc (Midnight Form) : 
-HP: Good (85)
-Threat Rating: Great (320)
-Initiative: Good (82)
-
-Wishiwashi (Solo Form) : 
-HP: Mediocre (45)
-Threat Rating: Poor (90)
-Initiative: Mediocre (40)
-
-Wishiwashi (School Form) : 
-HP: Mediocre (45)
-Threat Rating: Great Superhuman (Legendary+2) (545)
-Initiative: Poor (30)
-
-Mareanie : 
-HP: Mediocre (50)
-Threat Rating: Fair (210)
-Initiative: Mediocre (45)
-
-Toxapex : 
-HP: Mediocre (50)
-Threat Rating: Fair Superhuman (Legendary) (410)
-Initiative: Poor (35)
-
-Mudbray : 
-HP: Fair (70)
-Threat Rating: Good (270)
-Initiative: Mediocre (45)
-
-Mudsdale : 
-HP: Good (100)
-Threat Rating: Superb (365)
-Initiative: Poor (35)
-
-Dewpider : 
-HP: Poor (38)
-Threat Rating: Fair (204)
-Initiative: Poor (27)
-
-Araquanid : 
-HP: Fair (68)
-Threat Rating: Superb (344)
-Initiative: Mediocre (42)
-
-Fomantis : 
-HP: Mediocre (40)
-Threat Rating: Mediocre (175)
-Initiative: Poor (35)
-
-Lurantis : 
-HP: Fair (70)
-Threat Rating: Superb (365)
-Initiative: Mediocre (45)
-
-Morelull : 
-HP: Mediocre (40)
-Threat Rating: Fair (230)
-Initiative: Terrible (15)
-
-Shiinotic : 
-HP: Fair (60)
-Threat Rating: Great (315)
-Initiative: Poor (30)
-
-Salandit : 
-HP: Mediocre (48)
-Threat Rating: Fair (195)
-Initiative: Fair (77)
-
-Salazzle : 
-HP: Fair (68)
-Threat Rating: Great (295)
-Initiative: Great (117)
-
-Stufful : 
-HP: Fair (70)
-Threat Rating: Fair (220)
-Initiative: Mediocre (50)
-
-Bewear : 
-HP: Great (120)
-Threat Rating: Great (320)
-Initiative: Fair (60)
-
-Bounsweet : 
-HP: Mediocre (42)
-Threat Rating: Mediocre (136)
-Initiative: Poor (32)
-
-Steenee : 
-HP: Mediocre (52)
-Threat Rating: Mediocre (176)
-Initiative: Fair (62)
-
-Tsareena : 
-HP: Fair (72)
-Threat Rating: Superb (366)
-Initiative: Fair (72)
-
-Comfey : 
-HP: Mediocre (51)
-Threat Rating: Great (334)
-Initiative: Good (100)
-
-Oranguru : 
-HP: Good (90)
-Threat Rating: Great (340)
-Initiative: Fair (60)
-
-Passimian : 
-HP: Good (100)
-Threat Rating: Great (310)
-Initiative: Good (80)
-
-Wimpod : 
-HP: Poor (25)
-Threat Rating: Poor (125)
-Initiative: Good (80)
-
-Golisopod : 
-HP: Fair (75)
-Threat Rating: Fair Superhuman (Legendary) (415)
-Initiative: Mediocre (40)
-
-Sandygast : 
-HP: Mediocre (55)
-Threat Rating: Good (250)
-Initiative: Terrible (15)
-
-Palossand : 
-HP: Good (85)
-Threat Rating: Superb (360)
-Initiative: Poor (35)
-
-Pyukumuku : 
-HP: Mediocre (55)
-Threat Rating: Superb (350)
-Initiative: Terrible (5)
-
-Type: Null : 
-HP: Good (95)
-Threat Rating: Superb (380)
-Initiative: Mediocre (59)
-
-Silvally : 
-HP: Good (95)
-Threat Rating: Superb (380)
-Initiative: Good (95)
-
-Minior (Meteor Form) : 
-HP: Fair (60)
-Threat Rating: Great (320)
-Initiative: Fair (60)
-
-Minior (Core) : 
-HP: Fair (60)
-Threat Rating: Great (320)
-Initiative: Great (120)
-
-Komala : 
-HP: Fair (65)
-Threat Rating: Superb (350)
-Initiative: Fair (65)
-
-Turtonator : 
-HP: Fair (60)
-Threat Rating: Superb (389)
-Initiative: Poor (36)
-
-Togedemaru : 
-HP: Fair (65)
-Threat Rating: Good (274)
-Initiative: Good (96)
-
-Mimikyu : 
-HP: Mediocre (55)
-Threat Rating: Great (325)
-Initiative: Good (96)
-
-Bruxish : 
-HP: Fair (68)
-Threat Rating: Great (315)
-Initiative: Good (92)
-
-Drampa : 
-HP: Fair (78)
-Threat Rating: Superb (371)
-Initiative: Poor (36)
-
-Dhelmise : 
-HP: Fair (70)
-Threat Rating: Fair Superhuman (Legendary) (407)
-Initiative: Mediocre (40)
-
-Jangmo-o : 
-HP: Mediocre (45)
-Threat Rating: Fair (210)
-Initiative: Mediocre (45)
-
-Hakamo-o : 
-HP: Mediocre (55)
-Threat Rating: Great (300)
-Initiative: Fair (65)
-
-Kommo-o : 
-HP: Fair (75)
-Threat Rating: Fair Superhuman (Legendary) (440)
-Initiative: Good (85)
-
-Tapu Koko : 
-HP: Fair (70)
-Threat Rating: Superb (370)
-Initiative: Great (130)
-
-Tapu Lele : 
-HP: Fair (70)
-Threat Rating: Fair Superhuman (Legendary) (405)
-Initiative: Good (95)
-
-Tapu Bulu : 
-HP: Fair (70)
-Threat Rating: Fair Superhuman (Legendary) (425)
-Initiative: Fair (75)
-
-Tapu Fini : 
-HP: Fair (70)
-Threat Rating: Fair Superhuman (Legendary) (415)
-Initiative: Good (85)
-
-Cosmog : 
-HP: Mediocre (43)
-Threat Rating: Poor (120)
-Initiative: Poor (37)
-
-Cosmoem : 
-HP: Mediocre (43)
-Threat Rating: Great (320)
-Initiative: Poor (37)
-
-Solgaleo : 
-HP: Great (137)
-Threat Rating: Fair Superhuman (Legendary) (446)
-Initiative: Good (97)
-
-Lunala : 
-HP: Great (137)
-Threat Rating: Fair Superhuman (Legendary) (446)
-Initiative: Good (97)
-
-Nihilego : 
-HP: Good (109)
-Threat Rating: Superb (358)
-Initiative: Good (103)
-
-Buzzwole : 
-HP: Good (107)
-Threat Rating: Superb (384)
-Initiative: Fair (79)
-
-Pheromosa : 
-HP: Fair (71)
-Threat Rating: Superb (348)
-Initiative: Superb (151)
-
-Xurkitree : 
-HP: Good (83)
-Threat Rating: Fair Superhuman (Legendary) (404)
-Initiative: Good (83)
-
-Celesteela : 
-HP: Good (97)
-Threat Rating: Fair Superhuman (Legendary) (412)
-Initiative: Fair (61)
-
-Kartana : 
-HP: Mediocre (59)
-Threat Rating: Fair Superhuman (Legendary) (402)
-Initiative: Good (109)
-
-Guzzlord : 
-HP: Superb (223)
-Threat Rating: Great (304)
-Initiative: Mediocre (43)
-
-Necrozma : 
-HP: Good (97)
-Threat Rating: Fair Superhuman (Legendary) (424)
-Initiative: Fair (79)
-
-Magearna : 
-HP: Good (80)
-Threat Rating: Good Superhuman (Legendary+1) (455)
-Initiative: Fair (65)
-
-Marshadow : 
-HP: Good (90)
-Threat Rating: Superb (385)
-Initiative: Great (125)
+Bulbasaur: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Ivysaur: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Venusaur: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Venusaur (Mega Venusaur): 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Charmander: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Fair
+
+Charmeleon: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Good
+
+Charizard: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Charizard (Mega Charizard X): 
+HP: Fair
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Charizard (Mega Charizard Y): 
+HP: Fair
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Squirtle: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Wartortle: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Mediocre
+
+Blastoise: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Blastoise (Mega Blastoise): 
+HP: Fair
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Fair
+
+Caterpie: 
+HP: Mediocre
+Threat Rating: Poor
+Initiative: Mediocre
+
+Metapod: 
+HP: Mediocre
+Threat Rating: Poor
+Initiative: Poor
+
+Butterfree: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Weedle: 
+HP: Mediocre
+Threat Rating: Poor
+Initiative: Mediocre
+
+Kakuna: 
+HP: Mediocre
+Threat Rating: Poor
+Initiative: Poor
+
+Beedrill: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Beedrill (Mega Beedrill): 
+HP: Fair
+Threat Rating: Good
+Initiative: Great
+
+Pidgey: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Pidgeotto: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Fair
+
+Pidgeot: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Pidgeot (Mega Pidgeot): 
+HP: Good
+Threat Rating: Superb
+Initiative: Great
+
+Rattata: 
+HP: Poor
+Threat Rating: Mediocre
+Initiative: Fair
+
+Raticate: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Good
+
+Spearow: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Fearow: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Ekans: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Mediocre
+
+Arbok: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Pikachu: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Good
+
+Raichu: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Sandshrew: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Sandslash: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Sandslash: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Nidoran♀: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Nidorina: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Nidoqueen: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Nidoran♂: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Nidorino: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Nidoking: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Clefairy: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Poor
+
+Clefable: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Vulpix: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Fair
+
+Ninetales: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Jigglypuff: 
+HP: Good
+Threat Rating: Mediocre
+Initiative: Poor
+
+Wigglytuff: 
+HP: Great
+Threat Rating: Good
+Initiative: Mediocre
+
+Zubat: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Golbat: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Oddish: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Poor
+
+Gloom: 
+HP: Fair
+Threat Rating: Great
+Initiative: Mediocre
+
+Vileplume: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Paras: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Poor
+
+Parasect: 
+HP: Fair
+Threat Rating: Great
+Initiative: Poor
+
+Venonat: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Venomoth: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Diglett: 
+HP: Terrible
+Threat Rating: Mediocre
+Initiative: Good
+
+Dugtrio: 
+HP: Poor
+Threat Rating: Good
+Initiative: Great
+
+Meowth: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Good
+
+Persian: 
+HP: Fair
+Threat Rating: Good
+Initiative: Great
+
+Psyduck: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Golduck: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Mankey: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Primeape: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Growlithe: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Arcanine: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Poliwag: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Good
+
+Poliwhirl: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Good
+
+Poliwrath: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Abra: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Good
+
+Kadabra: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Good
+
+Alakazam: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Great
+
+Alakazam (Mega Alakazam): 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Superb
+
+Machop: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Poor
+
+Machoke: 
+HP: Good
+Threat Rating: Good
+Initiative: Mediocre
+
+Machamp: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Bellsprout: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Weepinbell: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Victreebel: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Tentacool: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Tentacruel: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Geodude: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Poor
+
+Graveler: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Poor
+
+Golem: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Ponyta: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Good
+
+Rapidash: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Slowpoke: 
+HP: Good
+Threat Rating: Fair
+Initiative: Terrible
+
+Slowbro: 
+HP: Good
+Threat Rating: Superb
+Initiative: Poor
+
+Slowbro (Mega Slowbro): 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Poor
+
+Magnemite: 
+HP: Poor
+Threat Rating: Good
+Initiative: Mediocre
+
+Magneton: 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Fair
+
+Farfetch'd: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Fair
+
+Doduo: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Fair
+
+Dodrio: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Seel: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Dewgong: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Grimer: 
+HP: Good
+Threat Rating: Fair
+Initiative: Poor
+
+Muk: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Shellder: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Mediocre
+
+Cloyster: 
+HP: Mediocre
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Fair
+
+Gastly: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Good
+
+Haunter: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Good
+
+Gengar: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Gengar (Mega Gengar): 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Great
+
+Onix: 
+HP: Poor
+Threat Rating: Good
+Initiative: Fair
+
+Drowzee: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Hypno: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Krabby: 
+HP: Poor
+Threat Rating: Good
+Initiative: Mediocre
+
+Kingler: 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Fair
+
+Voltorb: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Good
+
+Electrode: 
+HP: Fair
+Threat Rating: Good
+Initiative: Great
+
+Exeggcute: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Exeggutor: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Cubone: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Marowak: 
+HP: Fair
+Threat Rating: Great
+Initiative: Mediocre
+
+Hitmonlee: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Good
+
+Hitmonchan: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Fair
+
+Lickitung: 
+HP: Good
+Threat Rating: Good
+Initiative: Poor
+
+Koffing: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Poor
+
+Weezing: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Rhyhorn: 
+HP: Good
+Threat Rating: Good
+Initiative: Poor
+
+Rhydon: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Chansey: 
+HP: Superb
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Tangela: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Kangaskhan: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Kangaskhan (Mega Kangaskhan): 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Horsea: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Fair
+
+Seadra: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Good
+
+Goldeen: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Seaking: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Staryu: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Good
+
+Starmie: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Great
+
+Mr. Mime: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Good
+
+Scyther: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Jynx: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Electabuzz: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Magmar: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Pinsir: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Pinsir (Mega Pinsir): 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Tauros: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Magikarp: 
+HP: Poor
+Threat Rating: Poor
+Initiative: Good
+
+Gyarados: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Gyarados (Mega Gyarados): 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Lapras: 
+HP: Great
+Threat Rating: Superb
+Initiative: Fair
+
+Ditto: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Eevee: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Vaporeon: 
+HP: Great
+Threat Rating: Great
+Initiative: Fair
+
+Jolteon: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Flareon: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Porygon: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Omanyte: 
+HP: Poor
+Threat Rating: Good
+Initiative: Poor
+
+Omastar: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Kabuto: 
+HP: Poor
+Threat Rating: Good
+Initiative: Mediocre
+
+Kabutops: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Aerodactyl: 
+HP: Good
+Threat Rating: Great
+Initiative: Great
+
+Aerodactyl (Mega Aerodactyl): 
+HP: Good
+Threat Rating: Superb
+Initiative: Superb
+
+Snorlax: 
+HP: Great
+Threat Rating: Superb
+Initiative: Poor
+
+Articuno: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Zapdos: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Moltres: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Dratini: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Dragonair: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Dragonite: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Mewtwo: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Great
+
+Mewtwo (Mega Mewtwo X): 
+HP: Good
+Threat Rating: Great Superhuman (Legendary+2)
+Initiative: Great
+
+Mewtwo (Mega Mewtwo Y): 
+HP: Good
+Threat Rating: Great Superhuman (Legendary+2)
+Initiative: Great
+
+Mew: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Chikorita: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Bayleef: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Meganium: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Cyndaquil: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Fair
+
+Quilava: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Good
+
+Typhlosion: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Totodile: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Croconaw: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Feraligatr: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Sentret: 
+HP: Poor
+Threat Rating: Mediocre
+Initiative: Poor
+
+Furret: 
+HP: Good
+Threat Rating: Good
+Initiative: Good
+
+Hoothoot: 
+HP: Fair
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Noctowl: 
+HP: Good
+Threat Rating: Good
+Initiative: Fair
+
+Ledyba: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Ledian: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Good
+
+Spinarak: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Poor
+
+Ariados: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Crobat: 
+HP: Good
+Threat Rating: Great
+Initiative: Great
+
+Chinchou: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Fair
+
+Lanturn: 
+HP: Great
+Threat Rating: Good
+Initiative: Fair
+
+Pichu: 
+HP: Poor
+Threat Rating: Poor
+Initiative: Fair
+
+Cleffa: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Terrible
+
+Igglybuff: 
+HP: Good
+Threat Rating: Poor
+Initiative: Terrible
+
+Togepi: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Poor
+
+Togetic: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Mediocre
+
+Natu: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Xatu: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Mareep: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Flaaffy: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Ampharos: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Ampharos (Mega Ampharos): 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Mediocre
+
+Bellossom: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Marill: 
+HP: Fair
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Azumarill: 
+HP: Good
+Threat Rating: Good
+Initiative: Mediocre
+
+Sudowoodo: 
+HP: Fair
+Threat Rating: Great
+Initiative: Poor
+
+Politoed: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Hoppip: 
+HP: Poor
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Skiploom: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Good
+
+Jumpluff: 
+HP: Fair
+Threat Rating: Good
+Initiative: Great
+
+Aipom: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Good
+
+Sunkern: 
+HP: Poor
+Threat Rating: Poor
+Initiative: Poor
+
+Sunflora: 
+HP: Fair
+Threat Rating: Great
+Initiative: Poor
+
+Yanma: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Good
+
+Wooper: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Terrible
+
+Quagsire: 
+HP: Good
+Threat Rating: Great
+Initiative: Poor
+
+Espeon: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Great
+
+Umbreon: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Murkrow: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Slowking: 
+HP: Good
+Threat Rating: Superb
+Initiative: Poor
+
+Misdreavus: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Unown: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Mediocre
+
+Wobbuffet: 
+HP: Superb
+Threat Rating: Mediocre
+Initiative: Poor
+
+Girafarig: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Pineco: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Terrible
+
+Forretress: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Dunsparce: 
+HP: Good
+Threat Rating: Good
+Initiative: Mediocre
+
+Gligar: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Steelix: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Poor
+
+Steelix (Mega Steelix): 
+HP: Fair
+Threat Rating: Great Superhuman (Legendary+2)
+Initiative: Poor
+
+Snubbull: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Poor
+
+Granbull: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Qwilfish: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Scizor: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Scizor (Mega Scizor): 
+HP: Fair
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Fair
+
+Shuckle: 
+HP: Poor
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Terrible
+
+Heracross: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Heracross (Mega Heracross): 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Fair
+
+Sneasel: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Great
+
+Teddiursa: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Ursaring: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Slugma: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Magcargo: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Poor
+
+Swinub: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Piloswine: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Corsola: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Poor
+
+Remoraid: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Fair
+
+Octillery: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Delibird: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Mantine: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Skarmory: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Houndour: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Houndoom: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Houndoom (Mega Houndoom): 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Great
+
+Kingdra: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Phanpy: 
+HP: Good
+Threat Rating: Fair
+Initiative: Mediocre
+
+Donphan: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Porygon2: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Stantler: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Smeargle: 
+HP: Mediocre
+Threat Rating: Poor
+Initiative: Fair
+
+Tyrogue: 
+HP: Poor
+Threat Rating: Mediocre
+Initiative: Poor
+
+Hitmontop: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Fair
+
+Smoochum: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Elekid: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Good
+
+Magby: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Good
+
+Miltank: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Blissey: 
+HP: Superb
+Threat Rating: Fair
+Initiative: Mediocre
+
+Raikou: 
+HP: Good
+Threat Rating: Superb
+Initiative: Great
+
+Entei: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Suicune: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Larvitar: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Pupitar: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Tyranitar: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Fair
+
+Tyranitar (Mega Tyranitar): 
+HP: Good
+Threat Rating: Great Superhuman (Legendary+2)
+Initiative: Fair
+
+Lugia: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Great
+
+Ho-Oh: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Celebi: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Treecko: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Grovyle: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Good
+
+Sceptile: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Sceptile (Mega Sceptile): 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Great
+
+Torchic: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Combusken: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Blaziken: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Blaziken (Mega Blaziken): 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Mudkip: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Marshtomp: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Swampert: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Swampert (Mega Swampert): 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Fair
+
+Poochyena: 
+HP: Poor
+Threat Rating: Mediocre
+Initiative: Poor
+
+Mightyena: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Zigzagoon: 
+HP: Poor
+Threat Rating: Mediocre
+Initiative: Fair
+
+Linoone: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Wurmple: 
+HP: Mediocre
+Threat Rating: Poor
+Initiative: Poor
+
+Silcoon: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Terrible
+
+Beautifly: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Cascoon: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Terrible
+
+Dustox: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Lotad: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Poor
+
+Lombre: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Ludicolo: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Seedot: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Poor
+
+Nuzleaf: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Fair
+
+Shiftry: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Taillow: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Good
+
+Swellow: 
+HP: Fair
+Threat Rating: Good
+Initiative: Great
+
+Wingull: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Good
+
+Pelipper: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Ralts: 
+HP: Poor
+Threat Rating: Poor
+Initiative: Mediocre
+
+Kirlia: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Mediocre
+
+Gardevoir: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Gardevoir (Mega Gardevoir): 
+HP: Fair
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Surskit: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Masquerain: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Shroomish: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Poor
+
+Breloom: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Slakoth: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Poor
+
+Vigoroth: 
+HP: Good
+Threat Rating: Good
+Initiative: Good
+
+Slaking: 
+HP: Great
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Nincada: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Mediocre
+
+Ninjask: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Superb
+
+Shedinja: 
+HP: Terrible
+Threat Rating: Fair
+Initiative: Mediocre
+
+Whismur: 
+HP: Fair
+Threat Rating: Mediocre
+Initiative: Poor
+
+Loudred: 
+HP: Good
+Threat Rating: Fair
+Initiative: Mediocre
+
+Exploud: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Makuhita: 
+HP: Fair
+Threat Rating: Mediocre
+Initiative: Poor
+
+Hariyama: 
+HP: Great
+Threat Rating: Good
+Initiative: Mediocre
+
+Azurill: 
+HP: Mediocre
+Threat Rating: Poor
+Initiative: Poor
+
+Nosepass: 
+HP: Poor
+Threat Rating: Great
+Initiative: Poor
+
+Skitty: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Delcatty: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Sableye: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Mediocre
+
+Sableye (Mega Sableye): 
+HP: Mediocre
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Poor
+
+Mawile: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Mediocre
+
+Mawile (Mega Mawile): 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Mediocre
+
+Aron: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Poor
+
+Lairon: 
+HP: Fair
+Threat Rating: Great
+Initiative: Mediocre
+
+Aggron: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Mediocre
+
+Aggron (Mega Aggron): 
+HP: Fair
+Threat Rating: Great Superhuman (Legendary+2)
+Initiative: Mediocre
+
+Meditite: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Fair
+
+Medicham: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Medicham (Mega Medicham): 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Electrike: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Manectric: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Manectric (Mega Manectric): 
+HP: Fair
+Threat Rating: Superb
+Initiative: Great
+
+Plusle: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Minun: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Volbeat: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Illumise: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Roselia: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Fair
+
+Gulpin: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Swalot: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Carvanha: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Sharpedo: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Sharpedo (Mega Sharpedo): 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Wailmer: 
+HP: Great
+Threat Rating: Fair
+Initiative: Fair
+
+Wailord: 
+HP: Great
+Threat Rating: Good
+Initiative: Fair
+
+Numel: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Poor
+
+Camerupt: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Camerupt (Mega Camerupt): 
+HP: Fair
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Poor
+
+Torkoal: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Poor
+
+Spoink: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Fair
+
+Grumpig: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Spinda: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Trapinch: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Terrible
+
+Vibrava: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Flygon: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Cacnea: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Poor
+
+Cacturne: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Swablu: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Altaria: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Altaria (Mega Altaria): 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Zangoose: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Seviper: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Lunatone: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Solrock: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Barboach: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Whiscash: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Corphish: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Crawdaunt: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Baltoy: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Claydol: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Lileep: 
+HP: Fair
+Threat Rating: Good
+Initiative: Poor
+
+Cradily: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Anorith: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Armaldo: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Feebas: 
+HP: Poor
+Threat Rating: Poor
+Initiative: Good
+
+Milotic: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Castform: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Kecleon: 
+HP: Fair
+Threat Rating: Great
+Initiative: Mediocre
+
+Shuppet: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Banette: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Banette (Mega Banette): 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Fair
+
+Duskull: 
+HP: Poor
+Threat Rating: Good
+Initiative: Poor
+
+Dusclops: 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Poor
+
+Tropius: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Chimecho: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Absol: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Absol (Mega Absol): 
+HP: Fair
+Threat Rating: Superb
+Initiative: Great
+
+Wynaut: 
+HP: Good
+Threat Rating: Mediocre
+Initiative: Poor
+
+Snorunt: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Glalie: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Glalie (Mega Glalie): 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Spheal: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Poor
+
+Sealeo: 
+HP: Good
+Threat Rating: Good
+Initiative: Mediocre
+
+Walrein: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Clamperl: 
+HP: Poor
+Threat Rating: Good
+Initiative: Poor
+
+Huntail: 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Mediocre
+
+Gorebyss: 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Mediocre
+
+Relicanth: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Luvdisc: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Good
+
+Bagon: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Shelgon: 
+HP: Fair
+Threat Rating: Great
+Initiative: Mediocre
+
+Salamence: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Salamence (Mega Salamence): 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Great
+
+Beldum: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Metang: 
+HP: Fair
+Threat Rating: Great
+Initiative: Mediocre
+
+Metagross: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Fair
+
+Metagross (Mega Metagross): 
+HP: Good
+Threat Rating: Great Superhuman (Legendary+2)
+Initiative: Great
+
+Regirock: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Mediocre
+
+Regice: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Mediocre
+
+Registeel: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Mediocre
+
+Latias: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Great
+
+Latias (Mega Latias): 
+HP: Good
+Threat Rating: Great Superhuman (Legendary+2)
+Initiative: Great
+
+Latios: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Great
+
+Latios (Mega Latios): 
+HP: Good
+Threat Rating: Great Superhuman (Legendary+2)
+Initiative: Great
+
+Kyogre: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Kyogre (Primal Kyogre): 
+HP: Good
+Threat Rating: Superb Superhuman (Legendary+3)
+Initiative: Good
+
+Groudon: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Groudon (Primal Groudon): 
+HP: Good
+Threat Rating: Superb Superhuman (Legendary+3)
+Initiative: Good
+
+Rayquaza: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Rayquaza (Mega Rayquaza): 
+HP: Good
+Threat Rating: Superb Superhuman (Legendary+3)
+Initiative: Great
+
+Jirachi: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Deoxys (Normal Forme): 
+HP: Mediocre
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Superb
+
+Deoxys (Attack Forme): 
+HP: Mediocre
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Superb
+
+Deoxys (Defense Forme): 
+HP: Mediocre
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Deoxys (Speed Forme): 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Superb
+
+Turtwig: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Grotle: 
+HP: Fair
+Threat Rating: Great
+Initiative: Poor
+
+Torterra: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Chimchar: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Monferno: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Infernape: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Piplup: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Prinplup: 
+HP: Fair
+Threat Rating: Great
+Initiative: Mediocre
+
+Empoleon: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Starly: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Staravia: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Good
+
+Staraptor: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Bidoof: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Poor
+
+Bibarel: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Kricketot: 
+HP: Poor
+Threat Rating: Mediocre
+Initiative: Poor
+
+Kricketune: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Shinx: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Luxio: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Luxray: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Budew: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Roserade: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Cranidos: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Rampardos: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Shieldon: 
+HP: Poor
+Threat Rating: Good
+Initiative: Poor
+
+Bastiodon: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Poor
+
+Burmy: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Poor
+
+Wormadam (Plant Cloak): 
+HP: Fair
+Threat Rating: Great
+Initiative: Poor
+
+Wormadam (Sandy Cloak): 
+HP: Fair
+Threat Rating: Great
+Initiative: Poor
+
+Wormadam (Trash Cloak): 
+HP: Fair
+Threat Rating: Great
+Initiative: Poor
+
+Mothim: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Combee: 
+HP: Poor
+Threat Rating: Mediocre
+Initiative: Fair
+
+Vespiquen: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Pachirisu: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Buizel: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Good
+
+Floatzel: 
+HP: Good
+Threat Rating: Great
+Initiative: Great
+
+Cherubi: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Cherrim: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Shellos: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Poor
+
+Gastrodon: 
+HP: Good
+Threat Rating: Great
+Initiative: Poor
+
+Ambipom: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Drifloon: 
+HP: Good
+Threat Rating: Fair
+Initiative: Fair
+
+Drifblim: 
+HP: Great
+Threat Rating: Good
+Initiative: Good
+
+Buneary: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Good
+
+Lopunny: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Lopunny (Mega Lopunny): 
+HP: Fair
+Threat Rating: Superb
+Initiative: Great
+
+Mismagius: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Honchkrow: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Glameow: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Good
+
+Purugly: 
+HP: Fair
+Threat Rating: Good
+Initiative: Great
+
+Chingling: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Stunky: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Fair
+
+Skuntank: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Bronzor: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Bronzong: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Poor
+
+Bonsly: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Terrible
+
+Mime Jr.: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Fair
+
+Happiny: 
+HP: Good
+Threat Rating: Poor
+Initiative: Poor
+
+Chatot: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Spiritomb: 
+HP: Mediocre
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Poor
+
+Gible: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Gabite: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Garchomp: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Garchomp (Mega Garchomp): 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Munchlax: 
+HP: Great
+Threat Rating: Good
+Initiative: Terrible
+
+Riolu: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Lucario: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Lucario (Mega Lucario): 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Great
+
+Hippopotas: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Poor
+
+Hippowdon: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Skorupi: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Drapion: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Croagunk: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Toxicroak: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Carnivine: 
+HP: Fair
+Threat Rating: Great
+Initiative: Mediocre
+
+Finneon: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Lumineon: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Mantyke: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Mediocre
+
+Snover: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Abomasnow: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Abomasnow (Mega Abomasnow): 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Poor
+
+Weavile: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Magnezone: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Fair
+
+Lickilicky: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Rhyperior: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Tangrowth: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Electivire: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Magmortar: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Togekiss: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Yanmega: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Leafeon: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Glaceon: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Gliscor: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Mamoswine: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Porygon-Z: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Gallade: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Gallade (Mega Gallade): 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Great
+
+Probopass: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Mediocre
+
+Dusknoir: 
+HP: Mediocre
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Mediocre
+
+Froslass: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Rotom (Normal Rotom): 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Good
+
+Rotom (Heat Rotom): 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Good
+
+Rotom (Wash Rotom): 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Good
+
+Rotom (Frost Rotom): 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Good
+
+Rotom (Fan Rotom): 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Good
+
+Rotom (Mow Rotom): 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Good
+
+Uxie: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Mesprit: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Azelf: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Great
+
+Dialga: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Palkia: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Heatran: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Fair
+
+Regigigas: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Giratina (Altered Forme): 
+HP: Great
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Giratina (Origin Forme): 
+HP: Great
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Cresselia: 
+HP: Great
+Threat Rating: Superb
+Initiative: Good
+
+Phione: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Manaphy: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Darkrai: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Great
+
+Shaymin (Land Forme): 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Shaymin (Sky Forme): 
+HP: Good
+Threat Rating: Superb
+Initiative: Great
+
+Arceus: 
+HP: Great
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Great
+
+Victini: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Snivy: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Servine: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Serperior: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Tepig: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Pignite: 
+HP: Good
+Threat Rating: Good
+Initiative: Mediocre
+
+Emboar: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Oshawott: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Dewott: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Samurott: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Patrat: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Watchog: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Lillipup: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Herdier: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Stoutland: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Purrloin: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Liepard: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Pansage: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Simisage: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Pansear: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Simisear: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Panpour: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Simipour: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Munna: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Poor
+
+Musharna: 
+HP: Good
+Threat Rating: Great
+Initiative: Poor
+
+Pidove: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Tranquill: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Fair
+
+Unfezant: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Blitzle: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Zebstrika: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Roggenrola: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Terrible
+
+Boldore: 
+HP: Fair
+Threat Rating: Great
+Initiative: Poor
+
+Gigalith: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Poor
+
+Woobat: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Swoobat: 
+HP: Fair
+Threat Rating: Good
+Initiative: Great
+
+Drilbur: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Fair
+
+Excadrill: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Audino: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Audino (Mega Audino): 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Timburr: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Poor
+
+Gurdurr: 
+HP: Good
+Threat Rating: Good
+Initiative: Mediocre
+
+Conkeldurr: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Tympole: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Palpitoad: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Seismitoad: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Throh: 
+HP: Great
+Threat Rating: Great
+Initiative: Mediocre
+
+Sawk: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Sewaddle: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Swadloon: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Mediocre
+
+Leavanny: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Venipede: 
+HP: Poor
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Whirlipede: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Mediocre
+
+Scolipede: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Cottonee: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Whimsicott: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Petilil: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Lilligant: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Basculin: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Sandile: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Krokorok: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Fair
+
+Krookodile: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Darumaka: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Darmanitan (Standard Mode): 
+HP: Good
+Threat Rating: Good
+Initiative: Good
+
+Darmanitan (Zen Mode): 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Maractus: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Dwebble: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Crustle: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Scraggy: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Mediocre
+
+Scrafty: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Sigilyph: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Yamask: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Poor
+
+Cofagrigus: 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Poor
+
+Tirtouga: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Poor
+
+Carracosta: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Poor
+
+Archen: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Fair
+
+Archeops: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Great
+
+Trubbish: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Garbodor: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Zorua: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Zoroark: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Minccino: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Cinccino: 
+HP: Fair
+Threat Rating: Good
+Initiative: Great
+
+Gothita: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Gothorita: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Gothitelle: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Solosis: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Duosion: 
+HP: Fair
+Threat Rating: Good
+Initiative: Poor
+
+Reuniclus: 
+HP: Good
+Threat Rating: Superb
+Initiative: Poor
+
+Ducklett: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Swanna: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Vanillite: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Mediocre
+
+Vanillish: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Mediocre
+
+Vanilluxe: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Deerling: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Fair
+
+Sawsbuck: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Emolga: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Good
+
+Karrablast: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Escavalier: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Poor
+
+Foongus: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Terrible
+
+Amoonguss: 
+HP: Good
+Threat Rating: Great
+Initiative: Poor
+
+Frillish: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Mediocre
+
+Jellicent: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Alomomola: 
+HP: Great
+Threat Rating: Good
+Initiative: Fair
+
+Joltik: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Galvantula: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Ferroseed: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Terrible
+
+Ferrothorn: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Poor
+
+Klink: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Klang: 
+HP: Fair
+Threat Rating: Great
+Initiative: Mediocre
+
+Klinklang: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Tynamo: 
+HP: Poor
+Threat Rating: Mediocre
+Initiative: Fair
+
+Eelektrik: 
+HP: Fair
+Threat Rating: Great
+Initiative: Mediocre
+
+Eelektross: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Elgyem: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Poor
+
+Beheeyem: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Litwick: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Lampent: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Chandelure: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Axew: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Fraxure: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Haxorus: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Cubchoo: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Beartic: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Cryogonal: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Shelmet: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Accelgor: 
+HP: Good
+Threat Rating: Good
+Initiative: Great
+
+Stunfisk: 
+HP: Good
+Threat Rating: Great
+Initiative: Poor
+
+Mienfoo: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Fair
+
+Mienshao: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Druddigon: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Golett: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Golurk: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Pawniard: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Bisharp: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Bouffalant: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Rufflet: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Fair
+
+Braviary: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Vullaby: 
+HP: Fair
+Threat Rating: Good
+Initiative: Fair
+
+Mandibuzz: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Heatmor: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Durant: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Good
+
+Deino: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Zweilous: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Hydreigon: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Larvesta: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Fair
+
+Volcarona: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Cobalion: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Terrakion: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Virizion: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Tornadus (Incarnate Forme): 
+HP: Fair
+Threat Rating: Superb
+Initiative: Great
+
+Tornadus (Therian Forme): 
+HP: Fair
+Threat Rating: Superb
+Initiative: Great
+
+Thundurus (Incarnate Forme): 
+HP: Fair
+Threat Rating: Superb
+Initiative: Great
+
+Thundurus (Therian Forme): 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Reshiram: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Zekrom: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Landorus (Incarnate Forme): 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Landorus (Therian Forme): 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Kyurem (Normal Kyurem): 
+HP: Great
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Kyurem (Black Kyurem): 
+HP: Great
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Kyurem (White Kyurem): 
+HP: Great
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Keldeo: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Meloetta (Aria Forme): 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Meloetta (Pirouette Forme): 
+HP: Good
+Threat Rating: Superb
+Initiative: Great
+
+Genesect: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Chespin: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Quilladin: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Chesnaught: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Fennekin: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Braixen: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Fair
+
+Delphox: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Froakie: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Frogadier: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Good
+
+Greninja: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Bunnelby: 
+HP: Poor
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Diggersby: 
+HP: Good
+Threat Rating: Good
+Initiative: Fair
+
+Fletchling: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Fletchinder: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Good
+
+Talonflame: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Scatterbug: 
+HP: Poor
+Threat Rating: Poor
+Initiative: Poor
+
+Spewpa: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Poor
+
+Vivillon: 
+HP: Good
+Threat Rating: Good
+Initiative: Good
+
+Litleo: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Fair
+
+Pyroar: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Flabébé: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Floette: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Mediocre
+
+Florges: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Fair
+
+Skiddo: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Gogoat: 
+HP: Great
+Threat Rating: Great
+Initiative: Fair
+
+Pancham: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Pangoro: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Furfrou: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Espurr: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Fair
+
+Meowstic: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Honedge: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Poor
+
+Doublade: 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Poor
+
+Aegislash (Shield Forme): 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Fair
+
+Aegislash (Blade Forme): 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Fair
+
+Spritzee: 
+HP: Fair
+Threat Rating: Good
+Initiative: Poor
+
+Aromatisse: 
+HP: Good
+Threat Rating: Great
+Initiative: Poor
+
+Swirlix: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Slurpuff: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Inkay: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Malamar: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Binacle: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Barbaracle: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Skrelp: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Poor
+
+Dragalge: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Clauncher: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Clawitzer: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Helioptile: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Heliolisk: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Tyrunt: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Mediocre
+
+Tyrantrum: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Amaura: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Aurorus: 
+HP: Great
+Threat Rating: Great
+Initiative: Mediocre
+
+Sylveon: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Hawlucha: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Dedenne: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Carbink: 
+HP: Mediocre
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Mediocre
+
+Goomy: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Sliggoo: 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Goodra: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Klefki: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Fair
+
+Phantump: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Trevenant: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Pumpkaboo (Small Size): 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Pumpkaboo (Average Size): 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Pumpkaboo (Large Size): 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Pumpkaboo (Super Size): 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Gourgeist (Small Size): 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Good
+
+Gourgeist (Average Size): 
+HP: Fair
+Threat Rating: Superb
+Initiative: Good
+
+Gourgeist (Large Size): 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Gourgeist (Super Size): 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Bergmite: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Poor
+
+Avalugg: 
+HP: Good
+Threat Rating: Superb
+Initiative: Poor
+
+Noibat: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Noivern: 
+HP: Good
+Threat Rating: Great
+Initiative: Great
+
+Xerneas: 
+HP: Great
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Yveltal: 
+HP: Great
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Good
+
+Zygarde: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Diancie: 
+HP: Mediocre
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Mediocre
+
+Diancie (Mega Diancie): 
+HP: Mediocre
+Threat Rating: Great Superhuman (Legendary+2)
+Initiative: Great
+
+Hoopa (Hoopa Confined): 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Fair
+
+Hoopa (Hoopa Unbound): 
+HP: Good
+Threat Rating: Great Superhuman (Legendary+2)
+Initiative: Good
+
+Volcanion: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Fair
+
+Rowlet: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Dartrix: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Decidueye: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Litten: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Torracat: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Incineroar: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Popplio: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Brionne: 
+HP: Fair
+Threat Rating: Great
+Initiative: Mediocre
+
+Primarina: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Pikipek: 
+HP: Poor
+Threat Rating: Mediocre
+Initiative: Fair
+
+Trumbeak: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Toucannon: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Yungoos: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Mediocre
+
+Gumshoos: 
+HP: Good
+Threat Rating: Good
+Initiative: Mediocre
+
+Grubbin: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Charjabug: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Poor
+
+Vikavolt: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Crabrawler: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Crabominable: 
+HP: Good
+Threat Rating: Great
+Initiative: Mediocre
+
+Oricorio: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Cutiefly: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Good
+
+Ribombee: 
+HP: Fair
+Threat Rating: Good
+Initiative: Great
+
+Rockruff: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Lycanroc (Midday Form): 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Lycanroc (Midnight Form): 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Wishiwashi (Solo Form): 
+HP: Mediocre
+Threat Rating: Poor
+Initiative: Mediocre
+
+Wishiwashi (School Form): 
+HP: Mediocre
+Threat Rating: Great Superhuman (Legendary+2)
+Initiative: Poor
+
+Mareanie: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Toxapex: 
+HP: Mediocre
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Poor
+
+Mudbray: 
+HP: Fair
+Threat Rating: Good
+Initiative: Mediocre
+
+Mudsdale: 
+HP: Good
+Threat Rating: Superb
+Initiative: Poor
+
+Dewpider: 
+HP: Poor
+Threat Rating: Fair
+Initiative: Poor
+
+Araquanid: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Fomantis: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Poor
+
+Lurantis: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Mediocre
+
+Morelull: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Terrible
+
+Shiinotic: 
+HP: Fair
+Threat Rating: Great
+Initiative: Poor
+
+Salandit: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Fair
+
+Salazzle: 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Stufful: 
+HP: Fair
+Threat Rating: Fair
+Initiative: Mediocre
+
+Bewear: 
+HP: Great
+Threat Rating: Great
+Initiative: Fair
+
+Bounsweet: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Poor
+
+Steenee: 
+HP: Mediocre
+Threat Rating: Mediocre
+Initiative: Fair
+
+Tsareena: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Comfey: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Good
+
+Oranguru: 
+HP: Good
+Threat Rating: Great
+Initiative: Fair
+
+Passimian: 
+HP: Good
+Threat Rating: Great
+Initiative: Good
+
+Wimpod: 
+HP: Poor
+Threat Rating: Poor
+Initiative: Good
+
+Golisopod: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Mediocre
+
+Sandygast: 
+HP: Mediocre
+Threat Rating: Good
+Initiative: Terrible
+
+Palossand: 
+HP: Good
+Threat Rating: Superb
+Initiative: Poor
+
+Pyukumuku: 
+HP: Mediocre
+Threat Rating: Superb
+Initiative: Terrible
+
+Type: Null: 
+HP: Good
+Threat Rating: Superb
+Initiative: Mediocre
+
+Silvally: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Minior (Meteor Form): 
+HP: Fair
+Threat Rating: Great
+Initiative: Fair
+
+Minior (Core): 
+HP: Fair
+Threat Rating: Great
+Initiative: Great
+
+Komala: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Fair
+
+Turtonator: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Poor
+
+Togedemaru: 
+HP: Fair
+Threat Rating: Good
+Initiative: Good
+
+Mimikyu: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Good
+
+Bruxish: 
+HP: Fair
+Threat Rating: Great
+Initiative: Good
+
+Drampa: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Poor
+
+Dhelmise: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Mediocre
+
+Jangmo-o: 
+HP: Mediocre
+Threat Rating: Fair
+Initiative: Mediocre
+
+Hakamo-o: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Fair
+
+Kommo-o: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Tapu Koko: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Great
+
+Tapu Lele: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Tapu Bulu: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Fair
+
+Tapu Fini: 
+HP: Fair
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Cosmog: 
+HP: Mediocre
+Threat Rating: Poor
+Initiative: Poor
+
+Cosmoem: 
+HP: Mediocre
+Threat Rating: Great
+Initiative: Poor
+
+Solgaleo: 
+HP: Great
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Lunala: 
+HP: Great
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Nihilego: 
+HP: Good
+Threat Rating: Superb
+Initiative: Good
+
+Buzzwole: 
+HP: Good
+Threat Rating: Superb
+Initiative: Fair
+
+Pheromosa: 
+HP: Fair
+Threat Rating: Superb
+Initiative: Superb
+
+Xurkitree: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Celesteela: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Fair
+
+Kartana: 
+HP: Mediocre
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Good
+
+Guzzlord: 
+HP: Superb
+Threat Rating: Great
+Initiative: Mediocre
+
+Necrozma: 
+HP: Good
+Threat Rating: Fair Superhuman (Legendary)
+Initiative: Fair
+
+Magearna: 
+HP: Good
+Threat Rating: Good Superhuman (Legendary+1)
+Initiative: Fair
+
+Marshadow: 
+HP: Good
+Threat Rating: Superb
+Initiative: Great
 

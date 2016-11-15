@@ -30,7 +30,7 @@ with open('pokemon_base_stats.csv', newline='') as pokemon_file:
     pokemon_reader=csv.reader(pokemon_file)
     with open('pokemon_converted.txt', 'w') as f:
         for x in pokemon_reader:
-            f.write (x[2]+"\n")
+            f.write (x[2].strip()+": \n")
             f.write ("HP: "+poke_convert(hp_limits,int(x[3]))+"\n")
             f.write ("Melee Attack: "+poke_convert(atk_limits,int(x[4]))+"\n")
             f.write ("Melee Defense: "+poke_convert(def_limits,int(x[5]))+"\n")

@@ -39,7 +39,7 @@ with open('pokemon_base_stats.csv', newline='') as pokemon_file:
     with open('pokemon_threat_converted.txt', 'w') as f:
         for x in pokemon_reader:
             summed_stats=sum([int(y) for y in x[4:8]])
-            f.write("{}: \n".format(x[2]))
-            f.write("HP: {} ({})\n".format(poke_convert(hp_limits, int(x[3])), x[3]))
-            f.write("Threat Rating: {} ({})\n".format(poke_convert(threat_rating_limits,summed_stats),summed_stats))
-            f.write("Initiative: {} ({})\n\n".format(poke_convert(spd_limits, int(x[8])), x[8]))
+            f.write("{}: \n".format(x[2].strip()))
+            f.write("HP: {}\n".format(poke_convert(hp_limits, int(x[3]))))
+            f.write("Threat Rating: {}\n".format(poke_convert(threat_rating_limits,summed_stats)))
+            f.write("Initiative: {}\n\n".format(poke_convert(spd_limits, int(x[8]))))
